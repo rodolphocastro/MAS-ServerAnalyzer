@@ -1,0 +1,2 @@
+module TopLogsHelper
+end

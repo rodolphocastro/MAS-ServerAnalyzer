@@ -1,0 +1,70 @@
+<%= form_for :top_process, url: top_processes_path do |f| %>
+	<p>
+		<%= f.label :header %>
+		<%= f.text_field :header %>
+	</p>
+
+	<p>
+		<%= f.label :pid %>
+		<%= f.text_field :pid %>
+	</p>
+
+	<p>
+		<%= f.label :user %>
+		<%= f.text_field :user %>
+	</p>
+
+	<p>
+		<%= f.label :pr %>
+		<%= f.text_field :pr %>
+	</p>
+
+	<p>
+		<%= f.label :ni %>
+		<%= f.text_field :ni %>
+	</p>
+
+	<p>
+		<%= f.label :virt %>
+		<%= f.text_field :virt %>
+	</p>
+
+	<p>
+		<%= f.label :res %>
+		<%= f.text_field :res %>
+	</p>
+
+	<p>
+		<%= f.label :shr %>
+		<%= f.text_field :shr %>
+	</p>
+
+	<p>
+		<%= f.label :s %>
+		<%= f.text_field :s %>
+	</p>
+
+	<p>
+		<%= f.label :cpu_usage %>
+		<%= f.text_field :cpu_usage %>
+	</p>
+
+	<p>
+		<%= f.label :mem_usage %>
+		<%= f.text_field :mem_usage %>
+	</p>
+
+	<p>
+		<%= f.label :time_usage %>
+		<%= f.text_field :time_usage %>
+	</p>
+
+	<p>
+		<%= f.label :command %>
+		<%= f.text_field :command %>
+	</p>
+
+	<p>
+	<%= f.submit %>
+	</p>
+<% end %>

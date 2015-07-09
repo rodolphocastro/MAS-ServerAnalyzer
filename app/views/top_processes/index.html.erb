@@ -1,0 +1,38 @@
+<h1>Listing all the Processes</h1>
+
+<table>
+	<tr>
+		<th>Header</th>
+		<th>PID</th>
+		<th>User</th>
+		<th>PR</th>
+		<th>NI</th>
+		<th>VIRT</th>
+		<th>RES</th>
+		<th>SHR</th>
+		<th>S</th>
+		<th>CPU%</th>
+		<th>MEM%</th>
+		<th>TIME</th>
+		<th>Command</th>
+
+	</tr>
+
+	<% @topProcesses.each do |topProcess| %>
+		<tr>
+			<td><%= topProcess.header %></td>
+			<td><%= topProcess.pid %></td>
+			<td><%= topProcess.user %></td>
+			<td><%= topProcess.pr %></td>
+			<td><%= topProcess.ni %></td>
+			<td><%= topProcess.virt %></td>
+			<td><%= topProcess.res %></td>
+			<td><%= topProcess.shr %></td>
+			<td><%= topProcess.s %></td>
+			<td><%= topProcess.cpu_usage %></td>
+			<td><%= topProcess.mem_usage %></td>
+			<td><%= topProcess.time_usage %></td>
+			<td><%=	topProcess.command %></td>
+		</tr>
+	<% end %>
+</table>

@@ -1,0 +1,2882 @@
+MrBurns 2015-05-22 00:40:01
+top - 00:40:01 up 17 days, 13:44,  8 users,  load average: 0,05, 0,05, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345780 used,  1761884 free,   161644 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918172 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17053 root      20   0   29480   1984   1140 R  12,2  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,1  0,0   2:08.70 rcuos/0
+   11 root      20   0       0      0      0 S   6,1  0,0   2:55.26 rcuos/3
+14936 ltsp4     20   0 1147232 236100  50780 S   6,1  2,9   4:05.82 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  17:57.56 sshd
+MrBurns 2015-05-22 00:45:01
+top - 00:45:01 up 17 days, 13:49,  8 users,  load average: 0,02, 0,05, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345864 used,  1761800 free,   161720 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918180 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 236100  50780 S   6,1  2,9   4:17.49 firefox
+17137 root      20   0   29480   1984   1140 R   6,1  0,0   0:00.01 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  18:03.69 sshd
+MrBurns 2015-05-22 00:50:01
+top - 00:50:01 up 17 days, 13:54,  8 users,  load average: 0,01, 0,03, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6346092 used,  1761572 free,   161800 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918188 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17215 root      20   0   29480   1992   1140 R  12,2  0,0   0:00.02 top
+   10 root      20   0       0      0      0 S   6,1  0,0   1:49.05 rcuos/2
+14936 ltsp4     20   0 1147232 236100  50780 S   6,1  2,9   4:29.18 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  18:09.82 sshd
+MrBurns 2015-05-22 00:55:01
+top - 00:55:01 up 17 days, 13:59,  8 users,  load average: 0,07, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344088 used,  1763576 free,   161960 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918260 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 235008  50784 S   6,1  2,9   4:41.43 firefox
+17307 root      20   0   29480   1988   1136 R   6,1  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  18:15.97 sshd
+MrBurns 2015-05-22 01:00:01
+top - 01:00:02 up 17 days, 14:04,  8 users,  load average: 0,06, 0,04, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6343704 used,  1763960 free,   162044 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918276 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17395 root      20   0   29480   1980   1136 R   6,0  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,0  0,2  18:22.09 sshd
+MrBurns 2015-05-22 01:05:01
+top - 01:05:01 up 17 days, 14:09,  8 users,  load average: 0,03, 0,02, 0,05
+Tarefas: 586 total,   3 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345744 used,  1761920 free,   162136 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918276 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17498 root      20   0   29480   1984   1136 R  12,3  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  18:28.20 sshd
+MrBurns 2015-05-22 01:10:01
+top - 01:10:01 up 17 days, 14:14,  8 users,  load average: 0,07, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6342740 used,  1764924 free,   162216 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918300 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17605 root      20   0   29480   1976   1136 R  12,0  0,0   0:00.03 top
+   10 root      20   0       0      0      0 S   6,0  0,0   1:49.11 rcuos/2
+14936 ltsp4     20   0 1147168 234396  50784 S   6,0  2,9   5:17.55 firefox
+MrBurns 2015-05-22 01:15:01
+top - 01:15:01 up 17 days, 14:19,  8 users,  load average: 0,01, 0,04, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344024 used,  1763640 free,   162324 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918300 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17711 root      20   0   29480   1980   1136 R  12,1  0,0   0:00.02 top
+14936 ltsp4     20   0 1147168 234396  50784 S   6,1  2,9   5:29.30 firefox
+MrBurns 2015-05-22 01:20:01
+top - 01:20:02 up 17 days, 14:24,  8 users,  load average: 0,00, 0,02, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344060 used,  1763604 free,   162420 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918312 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17799 root      20   0   29480   1976   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 01:25:01
+top - 01:25:01 up 17 days, 14:29,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344600 used,  1763064 free,   162604 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918384 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17899 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147232 234308  50784 S   6,1  2,9   5:53.44 firefox
+MrBurns 2015-05-22 01:30:01
+top - 01:30:01 up 17 days, 14:34,  8 users,  load average: 0,04, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6346020 used,  1761644 free,   162672 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918392 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18014 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147232 234308  50784 S   6,1  2,9   6:05.27 firefox
+MrBurns 2015-05-22 01:35:01
+top - 01:35:01 up 17 days, 14:39,  8 users,  load average: 0,01, 0,04, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344496 used,  1763168 free,   162800 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918404 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18137 root      20   0   29480   1980   1136 R  12,4  0,0   0:00.02 top
+14936 ltsp4     20   0 1147232 234308  50784 S   6,2  2,9   6:17.08 firefox
+MrBurns 2015-05-22 01:40:01
+top - 01:40:02 up 17 days, 14:44,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344276 used,  1763388 free,   162868 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918412 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18240 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147232 234308  50784 S   6,1  2,9   6:28.84 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  19:10.97 sshd
+MrBurns 2015-05-22 01:45:01
+top - 01:45:01 up 17 days, 14:49,  8 users,  load average: 0,03, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345328 used,  1762336 free,   162956 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918428 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    7 root      20   0       0      0      0 R   6,0  0,0   2:50.47 rcu_sched
+14936 ltsp4     20   0 1147232 234308  50784 S   6,0  2,9   6:40.57 firefox
+18331 root      20   0   29480   1980   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 01:50:01
+top - 01:50:01 up 17 days, 14:54,  8 users,  load average: 0,09, 0,04, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344644 used,  1763020 free,   163032 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918432 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18416 root      20   0   29480   1980   1136 R  12,1  0,0   0:00.02 top
+14936 ltsp4     20   0 1147232 234308  50784 S   6,1  2,9   6:52.34 firefox
+MrBurns 2015-05-22 01:55:01
+top - 01:55:01 up 17 days, 14:59,  8 users,  load average: 0,02, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344064 used,  1763600 free,   163140 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918480 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 234308  50784 S   6,0  2,9   7:04.11 firefox
+18516 root      20   0   29480   1980   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 02:00:01
+top - 02:00:01 up 17 days, 15:04,  8 users,  load average: 0,06, 0,07, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344116 used,  1763548 free,   163244 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918524 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18638 root      20   0   29480   1984   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 02:05:01
+top - 02:05:01 up 17 days, 15:09,  8 users,  load average: 0,03, 0,06, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345908 used,  1761756 free,   163356 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918532 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18745 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147360 235440  50784 S   6,1  2,9   7:28.23 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  19:41.52 sshd
+MrBurns 2015-05-22 02:10:01
+top - 02:10:01 up 17 days, 15:14,  8 users,  load average: 0,00, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344716 used,  1762948 free,   163440 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918536 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 235072  50784 S   6,1  2,9   7:40.87 firefox
+18834 root      20   0   29480   1980   1136 R   6,1  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  19:47.62 sshd
+MrBurns 2015-05-22 02:15:01
+top - 02:15:02 up 17 days, 15:19,  8 users,  load average: 0,07, 0,05, 0,05
+Tarefas: 585 total,   3 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345164 used,  1762500 free,   163544 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918552 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+18917 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 02:20:01
+top - 02:20:01 up 17 days, 15:24,  8 users,  load average: 0,06, 0,06, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344704 used,  1762960 free,   163636 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918560 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19004 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,2  0,0   2:09.00 rcuos/0
+14936 ltsp4     20   0 1147296 235072  50784 S   6,2  2,9   8:04.46 firefox
+MrBurns 2015-05-22 02:25:01
+top - 02:25:01 up 17 days, 15:29,  8 users,  load average: 0,00, 0,02, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6344996 used,  1762668 free,   163744 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918596 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19092 root      20   0   29480   1976   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 02:30:01
+top - 02:30:01 up 17 days, 15:34,  8 users,  load average: 0,01, 0,03, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6347448 used,  1760216 free,   163888 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918644 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19188 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 02:35:01
+top - 02:35:02 up 17 days, 15:39,  8 users,  load average: 0,05, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345828 used,  1761836 free,   163960 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918652 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234624  50784 S   6,1  2,9   8:40.58 firefox
+19267 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 02:40:01
+top - 02:40:01 up 17 days, 15:44,  8 users,  load average: 0,08, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345164 used,  1762500 free,   164052 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918660 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19356 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234624  50784 S   6,1  2,9   8:52.30 firefox
+MrBurns 2015-05-22 02:45:01
+top - 02:45:01 up 17 days, 15:49,  8 users,  load average: 0,06, 0,05, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6346204 used,  1761460 free,   164128 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918672 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   11 root      20   0       0      0      0 S   6,2  0,0   2:55.67 rcuos/3
+14936 ltsp4     20   0 1147296 234624  50784 S   6,2  2,9   9:04.05 firefox
+MrBurns 2015-05-22 02:50:01
+top - 02:50:01 up 17 days, 15:54,  8 users,  load average: 0,04, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345844 used,  1761820 free,   164232 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918716 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19520 root      20   0   29480   1984   1136 R  12,4  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234624  50784 S   6,2  2,9   9:15.80 firefox
+MrBurns 2015-05-22 02:55:01
+top - 02:55:02 up 17 days, 15:59,  8 users,  load average: 0,04, 0,06, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345128 used,  1762536 free,   164320 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918720 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234624  50784 S   6,1  2,9   9:27.54 firefox
+19605 root      20   0   29480   1980   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 03:00:01
+top - 03:00:01 up 17 days, 16:04,  8 users,  load average: 0,01, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6345980 used,  1761684 free,   164452 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918764 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19689 root      20   0   29480   1984   1136 R  12,4  0,0   0:00.02 top
+MrBurns 2015-05-22 03:05:01
+top - 03:05:01 up 17 days, 16:09,  8 users,  load average: 0,03, 0,05, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6347488 used,  1760176 free,   164544 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918776 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    8 root      20   0       0      0      0 S   6,0  0,0   2:09.19 rcuos/0
+14936 ltsp4     20   0 1147424 235860  50784 S   6,0  2,9   9:51.67 firefox
+MrBurns 2015-05-22 03:10:01
+top - 03:10:01 up 17 days, 16:14,  8 users,  load average: 0,03, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6347224 used,  1760440 free,   164636 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918780 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19858 root      20   0   29480   1980   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 03:15:01
+top - 03:15:01 up 17 days, 16:19,  8 users,  load average: 0,11, 0,04, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6347312 used,  1760352 free,   164708 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918796 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   10 root      20   0       0      0      0 S   6,1  0,0   1:49.34 rcuos/2
+19940 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 03:20:01
+top - 03:20:01 up 17 days, 16:24,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6347664 used,  1760000 free,   164816 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918836 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20033 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,1  0,0   2:09.26 rcuos/0
+14936 ltsp4     20   0 1147296 235756  50784 S   6,1  2,9  10:27.87 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  21:12.96 sshd
+MrBurns 2015-05-22 03:25:01
+top - 03:25:01 up 17 days, 16:29,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349124 used,  1758540 free,   164908 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918844 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20117 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,1  0,0   2:09.28 rcuos/0
+MrBurns 2015-05-22 03:30:01
+top - 03:30:02 up 17 days, 16:34,  8 users,  load average: 0,04, 0,04, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349708 used,  1757956 free,   165048 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918888 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    8 root      20   0       0      0      0 S   6,1  0,0   2:09.30 rcuos/0
+14936 ltsp4     20   0 1147296 235732  50784 S   6,1  2,9  10:52.13 firefox
+20199 root      20   0   29480   1980   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 03:35:01
+top - 03:35:01 up 17 days, 16:39,  8 users,  load average: 0,00, 0,03, 0,05
+Tarefas: 585 total,   3 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349008 used,  1758656 free,   165156 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918892 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20282 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  21:31.25 sshd
+MrBurns 2015-05-22 03:40:01
+top - 03:40:01 up 17 days, 16:44,  8 users,  load average: 0,05, 0,04, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349084 used,  1758580 free,   165228 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918904 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20369 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+    9 root      20   0       0      0      0 S   6,2  0,0   1:55.67 rcuos/1
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  21:37.37 sshd
+MrBurns 2015-05-22 03:45:01
+top - 03:45:01 up 17 days, 16:49,  8 users,  load average: 0,08, 0,04, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349364 used,  1758300 free,   165320 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918908 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20450 root      20   0   29480   1984   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 235732  50784 S   6,1  2,9  11:27.49 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  21:43.51 sshd
+MrBurns 2015-05-22 03:50:01
+top - 03:50:02 up 17 days, 16:54,  8 users,  load average: 0,05, 0,05, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349948 used,  1757716 free,   165400 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918928 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20530 root      20   0   29480   1976   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 235732  50784 S   6,1  2,9  11:39.26 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  21:49.66 sshd
+MrBurns 2015-05-22 03:55:01
+top - 03:55:01 up 17 days, 16:59,  8 users,  load average: 0,02, 0,05, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349200 used,  1758464 free,   165536 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918972 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20613 root      20   0   29480   1976   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 04:00:01
+top - 04:00:01 up 17 days, 17:04,  8 users,  load average: 0,04, 0,06, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6347904 used,  1759760 free,   165656 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919008 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20702 root      20   0   29480   1984   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 04:05:01
+top - 04:05:01 up 17 days, 17:09,  8 users,  load average: 0,02, 0,04, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349564 used,  1758100 free,   165764 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919024 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    9 root      20   0       0      0      0 S   6,1  0,0   1:55.72 rcuos/1
+20786 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 04:10:02
+top - 04:10:02 up 17 days, 17:14,  8 users,  load average: 0,14, 0,07, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349084 used,  1758580 free,   165848 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919028 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 234936  50784 S   6,1  2,9  12:27.90 firefox
+20876 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.01 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  22:14.19 sshd
+MrBurns 2015-05-22 04:15:01
+top - 04:15:01 up 17 days, 17:19,  8 users,  load average: 0,01, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349420 used,  1758244 free,   165964 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919040 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20997 root      20   0   29480   1976   1136 R  12,1  0,0   0:00.02 top
+14936 ltsp4     20   0 1147232 234936  50784 R   6,1  2,9  12:39.63 firefox
+MrBurns 2015-05-22 04:20:01
+top - 04:20:01 up 17 days, 17:24,  8 users,  load average: 0,02, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348916 used,  1758748 free,   166104 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919048 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21088 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234936  50784 S   6,2  2,9  12:51.41 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  22:26.44 sshd
+MrBurns 2015-05-22 04:25:01
+top - 04:25:01 up 17 days, 17:29,  8 users,  load average: 0,00, 0,02, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349284 used,  1758380 free,   166216 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919128 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21172 root      20   0   29480   1976   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 04:30:01
+top - 04:30:01 up 17 days, 17:34,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6352024 used,  1755640 free,   166324 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919164 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21259 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+   42 root      rt   0       0      0      0 S   6,1  0,0   0:14.82 watchdog/0
+14936 ltsp4     20   0 1147296 236148  50784 S   6,1  2,9  13:15.55 firefox
+MrBurns 2015-05-22 04:35:01
+top - 04:35:01 up 17 days, 17:39,  8 users,  load average: 0,26, 0,12, 0,08
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349192 used,  1758472 free,   166456 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919184 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 236148  50784 S   6,2  2,9  13:27.39 firefox
+21342 root      20   0   29480   1980   1136 R   6,2  0,0   0:00.02 top
+MrBurns 2015-05-22 04:40:01
+top - 04:40:01 up 17 days, 17:44,  8 users,  load average: 0,03, 0,07, 0,06
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348916 used,  1758748 free,   166556 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919192 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21428 root      20   0   29480   1976   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 236148  50784 S   6,1  2,9  13:39.17 firefox
+MrBurns 2015-05-22 04:45:01
+top - 04:45:02 up 17 days, 17:49,  8 users,  load average: 0,01, 0,04, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350304 used,  1757360 free,   166664 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919196 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21509 root      20   0   29480   1976   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 04:50:01
+top - 04:50:01 up 17 days, 17:54,  8 users,  load average: 0,00, 0,02, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350224 used,  1757440 free,   166744 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919212 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21592 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 236148  50784 S   6,2  2,9  14:02.71 firefox
+MrBurns 2015-05-22 04:55:01
+top - 04:55:01 up 17 days, 17:59,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349984 used,  1757680 free,   166884 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919256 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 236148  50784 S   6,1  2,9  14:14.49 firefox
+21676 root      20   0   29480   1976   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 05:00:01
+top - 05:00:01 up 17 days, 18:04,  8 users,  load average: 0,07, 0,03, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349120 used,  1758544 free,   167032 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919300 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234608  50784 S   6,1  2,9  14:26.86 firefox
+21765 root      20   0   29480   1980   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 05:05:01
+top - 05:05:02 up 17 days, 18:09,  8 users,  load average: 0,04, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6351248 used,  1756416 free,   167128 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919312 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   11 root      20   0       0      0      0 S   6,1  0,0   2:56.01 rcuos/3
+21850 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  23:21.74 sshd
+MrBurns 2015-05-22 05:10:01
+top - 05:10:01 up 17 days, 18:14,  8 users,  load average: 0,05, 0,07, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349184 used,  1758480 free,   167228 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919324 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 234800  50784 S   6,1  2,9  14:51.33 firefox
+21931 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.01 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  23:27.88 sshd
+MrBurns 2015-05-22 05:15:01
+top - 05:15:01 up 17 days, 18:19,  8 users,  load average: 0,10, 0,08, 0,06
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349096 used,  1758568 free,   167320 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919328 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22010 root      20   0   29480   1976   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 05:20:01
+top - 05:20:01 up 17 days, 18:24,  8 users,  load average: 0,01, 0,06, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349444 used,  1758220 free,   167388 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919340 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22098 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 05:25:02
+top - 05:25:02 up 17 days, 18:29,  8 users,  load average: 0,09, 0,08, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350648 used,  1757016 free,   167508 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919352 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22208 root      20   0   29480   1980   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 05:30:01
+top - 05:30:01 up 17 days, 18:34,  8 users,  load average: 0,11, 0,08, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6351484 used,  1756180 free,   167620 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919392 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22291 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+   10 root      20   0       0      0      0 S   6,1  0,0   1:49.60 rcuos/2
+14936 ltsp4     20   0 1147296 234344  50784 S   6,1  2,9  15:39.05 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  23:52.46 sshd
+MrBurns 2015-05-22 05:35:01
+top - 05:35:01 up 17 days, 18:39,  8 users,  load average: 0,09, 0,07, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350636 used,  1757028 free,   167728 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919404 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22374 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 05:40:01
+top - 05:40:01 up 17 days, 18:44,  8 users,  load average: 0,02, 0,06, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350504 used,  1757160 free,   167824 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919416 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22458 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+ 5725 root      20   0       0      0      0 S   6,1  0,0   1:40.75 kworker/0:1
+14936 ltsp4     20   0 1147296 234344  50784 S   6,1  2,9  16:02.69 firefox
+MrBurns 2015-05-22 05:45:01
+top - 05:45:01 up 17 days, 18:49,  8 users,  load average: 0,00, 0,03, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6351640 used,  1756024 free,   167916 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919428 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234344  50784 S   6,1  2,9  16:14.45 firefox
+22536 root      20   0   29480   1980   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 05:50:01
+top - 05:50:01 up 17 days, 18:54,  8 users,  load average: 0,05, 0,03, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6351488 used,  1756176 free,   167980 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919428 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22618 root      20   0   29480   1976   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 05:55:01
+top - 05:55:01 up 17 days, 18:59,  8 users,  load average: 0,03, 0,03, 0,05
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348780 used,  1758884 free,   168112 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919448 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234344  50784 S   6,1  2,9  16:38.05 firefox
+22700 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  24:23.18 sshd
+MrBurns 2015-05-22 06:00:01
+top - 06:00:02 up 17 days, 19:04,  8 users,  load average: 0,04, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348084 used,  1759580 free,   168244 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919500 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22793 root      20   0   29480   1984   1136 R  12,3  0,0   0:00.02 top
+    7 root      20   0       0      0      0 S   6,2  0,0   2:51.46 rcu_sched
+   11 root      20   0       0      0      0 S   6,2  0,0   2:56.14 rcuos/3
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  24:29.30 sshd
+MrBurns 2015-05-22 06:05:01
+top - 06:05:01 up 17 days, 19:09,  8 users,  load average: 0,03, 0,05, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349116 used,  1758548 free,   168364 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919508 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22884 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+    7 root      20   0       0      0      0 R   6,2  0,0   2:51.48 rcu_sched
+14936 ltsp4     20   0 1147424 235540  50784 S   6,2  2,9  17:02.19 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  24:35.42 sshd
+MrBurns 2015-05-22 06:10:01
+top - 06:10:01 up 17 days, 19:14,  8 users,  load average: 0,01, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348768 used,  1758896 free,   168472 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919524 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22963 root      20   0   29480   1980   1136 R   6,0  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,0  0,2  24:41.54 sshd
+MrBurns 2015-05-22 06:15:01
+top - 06:15:01 up 17 days, 19:19,  8 users,  load average: 0,00, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349120 used,  1758544 free,   168564 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919528 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 234908  50784 S   6,2  2,9  17:26.69 firefox
+MrBurns 2015-05-22 06:20:01
+top - 06:20:02 up 17 days, 19:24,  8 users,  load average: 0,05, 0,06, 0,06
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348412 used,  1759252 free,   168664 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919544 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    8 root      20   0       0      0      0 S   6,1  0,0   2:10.04 rcuos/0
+14936 ltsp4     20   0 1147296 234908  50784 S   6,1  2,9  17:38.52 firefox
+23142 root      20   0   29480   1980   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 06:25:01
+top - 06:25:01 up 17 days, 19:29,  8 users,  load average: 0,07, 0,06, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349720 used,  1757944 free,   168812 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919588 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23235 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234908  50784 S   6,1  2,9  17:50.34 firefox
+MrBurns 2015-05-22 06:30:01
+top - 06:30:01 up 17 days, 19:34,  8 users,  load average: 0,01, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350592 used,  1757072 free,   168900 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919636 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23318 root      20   0   29480   1980   1136 R  12,1  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234472  50784 S   6,1  2,9  18:02.82 firefox
+MrBurns 2015-05-22 06:35:01
+top - 06:35:01 up 17 days, 19:39,  8 users,  load average: 0,04, 0,05, 0,05
+Tarefas: 585 total,   3 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349848 used,  1757816 free,   169000 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919652 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23415 root      20   0   29480   1976   1136 R  12,2  0,0   0:00.02 top
+   10 root      20   0       0      0      0 S   6,1  0,0   1:49.73 rcuos/2
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  25:12.04 sshd
+MrBurns 2015-05-22 06:40:02
+top - 06:40:02 up 17 days, 19:44,  8 users,  load average: 0,01, 0,04, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349784 used,  1757880 free,   169092 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919660 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23506 root      20   0   29480   1984   1136 R  12,3  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  25:18.15 sshd
+MrBurns 2015-05-22 06:45:01
+top - 06:45:01 up 17 days, 19:49,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350288 used,  1757376 free,   169148 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919672 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23598 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234472  50784 S   6,2  2,9  18:38.15 firefox
+MrBurns 2015-05-22 06:50:01
+top - 06:50:01 up 17 days, 19:54,  8 users,  load average: 0,04, 0,03, 0,05
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350100 used,  1757564 free,   169228 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919676 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23675 root      20   0   29480   1976   1136 R   6,1  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  25:30.36 sshd
+MrBurns 2015-05-22 06:55:01
+top - 06:55:02 up 17 days, 19:59,  8 users,  load average: 0,05, 0,03, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350624 used,  1757040 free,   169316 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919692 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23757 root      20   0   29480   1984   1136 R  12,2  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  25:36.45 sshd
+MrBurns 2015-05-22 07:00:01
+top - 07:00:01 up 17 days, 20:04,  8 users,  load average: 0,10, 0,06, 0,06
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349812 used,  1757852 free,   169452 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   919700 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234772  50816 S   6,2  2,9  19:14.00 firefox
+MrBurns 2015-05-22 07:05:01
+top - 07:05:01 up 17 days, 20:09,  8 users,  load average: 0,25, 0,14, 0,08
+Tarefas: 587 total,   1 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6573896 used,  1533768 free,   169788 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918852 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23989 ltsp6     20   0 1163348 271724  53084 S   6,2  3,4   0:41.49 firefox
+24117 root      20   0   29480   1980   1136 R   6,2  0,0   0:00.02 top
+MrBurns 2015-05-22 07:10:01
+top - 07:10:01 up 17 days, 20:14,  8 users,  load average: 0,08, 0,08, 0,07
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348896 used,  1758768 free,   169900 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918728 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24200 root      20   0   29480   1984   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 07:15:01
+top - 07:15:02 up 17 days, 20:19,  8 users,  load average: 0,05, 0,07, 0,06
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348792 used,  1758872 free,   170000 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918744 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24283 root      20   0   29480   1976   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 07:20:01
+top - 07:20:01 up 17 days, 20:24,  8 users,  load average: 0,08, 0,05, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6348612 used,  1759052 free,   170104 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918748 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234968  50816 S   6,1  2,9  20:01.63 firefox
+24369 root      20   0   29480   1984   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 07:25:01
+top - 07:25:01 up 17 days, 20:29,  8 users,  load average: 0,02, 0,04, 0,05
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350708 used,  1756956 free,   170196 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   918756 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24453 root      20   0   29480   1980   1136 R  12,2  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  26:12.69 sshd
+MrBurns 2015-05-22 07:30:01
+top - 07:30:01 up 17 days, 20:34,  8 users,  load average: 0,15, 0,09, 0,07
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6597560 used,  1510104 free,   170380 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   920304 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24616 root      20   0   29480   1976   1136 R  12,3  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S  12,3  0,2  26:18.70 sshd
+   10 root      20   0       0      0      0 S   6,2  0,0   1:49.87 rcuos/2
+24506 ltsp6     20   0 1097924 293236  52060 S   6,2  3,6   0:16.13 firefox
+MrBurns 2015-05-22 07:35:01
+top - 07:35:02 up 17 days, 20:39,  8 users,  load average: 0,13, 0,15, 0,11
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6721088 used,  1386576 free,   170608 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   920592 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24715 root      20   0   79288  49496  41408 R  98,3  0,6   0:00.16 apt-get
+MrBurns 2015-05-22 07:40:01
+top - 07:40:01 up 17 days, 20:44,  8 users,  load average: 0,00, 0,08, 0,09
+Tarefas: 591 total,   3 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349828 used,  1757836 free,   170936 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   920508 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24859 root      20   0   29480   1980   1136 R  12,1  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234528  50816 R   6,1  2,9  20:48.92 firefox
+MrBurns 2015-05-22 07:45:01
+top - 07:45:01 up 17 days, 20:49,  8 users,  load average: 0,02, 0,05, 0,07
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6350960 used,  1756704 free,   171000 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   920516 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147296 234528  50816 S   6,2  2,9  21:00.67 firefox
+24939 root      20   0   29480   1976   1136 R   6,2  0,0   0:00.02 top
+MrBurns 2015-05-22 07:50:01
+top - 07:50:01 up 17 days, 20:54,  8 users,  load average: 0,30, 0,17, 0,11
+Tarefas: 592 total,   3 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6771028 used,  1336636 free,   171232 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   921964 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24942 ltsp6     20   0 1416380 468756  56272 R  43,3  5,8   1:28.62 firefox
+17247 ltsp6     20   0  125232  13852    984 R  24,7  0,2  86:48.41 sshd
+14936 ltsp4     20   0 1147296 234528  50816 S   6,2  2,9  21:11.86 firefox
+25130 root      20   0   29480   1976   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 07:55:01
+top - 07:55:01 up 17 days, 20:59,  8 users,  load average: 0,03, 0,10, 0,11
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6353200 used,  1754464 free,   171456 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   921632 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25296 root      20   0   29480   1980   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234528  50816 S   6,1  2,9  21:23.42 firefox
+29355 ltsp4     20   0  123104  12944   1024 R   6,1  0,2  26:48.46 sshd
+MrBurns 2015-05-22 08:00:01
+top - 08:00:01 up 17 days, 21:04,  8 users,  load average: 0,09, 0,12, 0,13
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6352436 used,  1755228 free,   171636 buffers
+KiB Swap:  2152444 total,   708192 used,  1444252 free.   920564 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25463 root      20   0   29480   1976   1136 R  12,1  0,0   0:00.02 top
+   11 root      20   0       0      0      0 S   6,0  0,0   2:56.59 rcuos/3
+29355 ltsp4     20   0  123104  12944   1024 S   6,0  0,2  26:54.49 sshd
+MrBurns 2015-05-22 08:05:01
+top - 08:05:01 up 17 days, 21:09,  8 users,  load average: 0,13, 0,16, 0,14
+Tarefas: 595 total,   2 executando, 593 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6583204 used,  1524460 free,   174012 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1028884 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25915 root      20   0   29480   1852   1136 R  12,3  0,0   0:00.02 top
+14936 ltsp4     20   0 1147424 235780  50816 S   6,2  2,9  21:47.06 firefox
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  27:00.38 sshd
+MrBurns 2015-05-22 08:10:01
+top - 08:10:02 up 17 days, 21:14,  8 users,  load average: 0,17, 0,14, 0,14
+Tarefas: 597 total,   2 executando, 595 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6765648 used,  1342016 free,   174380 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1029096 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+14936 ltsp4     20   0 1147232 234792  50816 S   6,0  2,9  21:59.50 firefox
+26152 root      20   0   29480   1848   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 08:15:01
+top - 08:15:01 up 17 days, 21:19,  8 users,  load average: 0,09, 0,11, 0,13
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6463348 used,  1644316 free,   174508 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1028988 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26236 root      20   0   29480   1848   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 08:20:01
+top - 08:20:01 up 17 days, 21:24,  8 users,  load average: 0,00, 0,04, 0,10
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6463176 used,  1644488 free,   174616 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1028992 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26320 root      20   0   29480   1844   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 08:25:01
+top - 08:25:01 up 17 days, 21:29,  8 users,  load average: 0,02, 0,04, 0,08
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6466100 used,  1641564 free,   174712 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1029008 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26409 root      20   0   29480   1844   1136 R   6,1  0,0   0:00.02 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,1  0,2  27:24.68 sshd
+MrBurns 2015-05-22 08:30:01
+top - 08:30:02 up 17 days, 21:34,  8 users,  load average: 0,05, 0,04, 0,07
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6465460 used,  1642204 free,   174796 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1029016 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26490 root      20   0   29480   1844   1136 R  12,2  0,0   0:00.02 top
+14936 ltsp4     20   0 1147296 234472  50816 S   6,1  2,9  22:47.21 firefox
+MrBurns 2015-05-22 08:35:01
+top - 08:35:01 up 17 days, 21:39,  8 users,  load average: 0,16, 0,10, 0,08
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6278028 used,  1829636 free,   175136 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1028472 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26692 root      20   0   29480   1844   1136 R  12,0  0,0   0:00.03 top
+MrBurns 2015-05-22 08:40:01
+top - 08:40:01 up 17 days, 21:44,  8 users,  load average: 0,00, 0,04, 0,05
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,2 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6279204 used,  1828460 free,   175212 buffers
+KiB Swap:  2152444 total,   708180 used,  1444264 free.  1028720 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26780 root      20   0   29480   1848   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 08:45:01
+top - 08:45:01 up 17 days, 21:49, 10 users,  load average: 0,99, 0,50, 0,23
+Tarefas: 647 total,   3 executando, 644 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7002200 used,  1105464 free,   178356 buffers
+KiB Swap:  2152444 total,   555584 used,  1596860 free.  1148608 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2492 ltsp3     20   0  115908   5680   1020 R  18,4  0,1   0:03.97 sshd
+ 9000 root      20   0   29624   1848   1136 R  12,2  0,0   0:00.02 top
+ 2714 ltsp8     20   0  116400   6420   1028 S   6,1  0,1   0:03.93 sshd
+ 3470 ltsp8     20   0  318492   9592   7160 S   6,1  0,1   0:01.01 metacity
+MrBurns 2015-05-22 08:50:01
+top - 08:50:02 up 17 days, 21:54,  9 users,  load average: 0,01, 0,22, 0,19
+Tarefas: 642 total,   1 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7116680 used,   990984 free,   178444 buffers
+KiB Swap:  2152444 total,   555572 used,  1596872 free.  1148724 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10878 root      20   0   29620   1844   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 08:55:01
+top - 08:55:01 up 17 days, 21:59,  9 users,  load average: 0,06, 0,10, 0,14
+Tarefas: 643 total,   2 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7491992 used,   615672 free,   178624 buffers
+KiB Swap:  2152444 total,   555572 used,  1596872 free.  1149288 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10938 ltsp6     20   0 1172112 420084  51360 S  60,8  5,2   0:21.83 firefox
+17247 ltsp6     20   0  125232  13852    984 S  24,3  0,2  87:13.27 sshd
+11033 root      20   0   29624   1852   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 09:00:01
+top - 09:00:01 up 17 days, 22:04,  9 users,  load average: 0,13, 0,20, 0,17
+Tarefas: 644 total,   3 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7497396 used,   610268 free,   178764 buffers
+KiB Swap:  2152444 total,   555572 used,  1596872 free.  1150500 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10938 ltsp6     20   0 1323712 421576  51660 R  85,3  5,2   1:42.71 firefox
+17247 ltsp6     20   0  125232  13852    984 S  18,3  0,2  87:41.13 sshd
+11126 root      20   0   29624   1860   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 09:05:01
+top - 09:05:01 up 17 days, 22:09,  9 users,  load average: 0,02, 0,14, 0,16
+Tarefas: 642 total,   1 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7152804 used,   954860 free,   178620 buffers
+KiB Swap:  2152444 total,   555576 used,  1596868 free.  1181980 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11378 root      20   0   29620   1856   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 09:10:01
+top - 09:10:01 up 17 days, 22:14,  9 users,  load average: 0,00, 0,05, 0,12
+Tarefas: 643 total,   2 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7152640 used,   955024 free,   178716 buffers
+KiB Swap:  2152444 total,   555576 used,  1596868 free.  1181992 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11460 root      20   0   29624   1852   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 09:15:01
+top - 09:15:01 up 17 days, 22:19,  9 users,  load average: 0,00, 0,02, 0,09
+Tarefas: 642 total,   2 executando, 640 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,2 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7152520 used,   955144 free,   178776 buffers
+KiB Swap:  2152444 total,   555576 used,  1596868 free.  1182000 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11544 root      20   0   29620   1856   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 09:20:01
+top - 09:20:01 up 17 days, 22:24,  9 users,  load average: 0,37, 0,20, 0,15
+Tarefas: 643 total,   3 executando, 640 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7201500 used,   906164 free,   179012 buffers
+KiB Swap:  2152444 total,   555272 used,  1597172 free.  1163344 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+13211 ltsp1     20   0 1166928 330108  50912 S  24,5  4,1   1:05.83 firefox
+11819 root      20   0   29624   1852   1136 R  12,3  0,0   0:00.02 top
+11210 ltsp1     20   0  125236  10976    868 S   6,1  0,1 146:58.27 sshd
+MrBurns 2015-05-22 09:25:01
+top - 09:25:02 up 17 days, 22:29,  9 users,  load average: 0,05, 0,14, 0,13
+Tarefas: 645 total,   2 executando, 643 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7324728 used,   782936 free,   179116 buffers
+KiB Swap:  2152444 total,   555272 used,  1597172 free.  1164096 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11210 ltsp1     20   0  125236  10976    868 R  12,1  0,1 147:08.97 sshd
+11967 root      20   0   29624   1860   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 09:30:01
+top - 09:30:01 up 17 days, 22:34,  9 users,  load average: 0,02, 0,12, 0,13
+Tarefas: 642 total,   2 executando, 640 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,2 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7178320 used,   929344 free,   179224 buffers
+KiB Swap:  2152444 total,   555272 used,  1597172 free.  1163788 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   42 root      rt   0       0      0      0 S   6,1  0,0   0:15.01 watchdog/0
+12063 root      20   0   29620   1852   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 09:35:01
+top - 09:35:01 up 17 days, 22:39,  9 users,  load average: 0,00, 0,04, 0,10
+Tarefas: 643 total,   2 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,2 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7177268 used,   930396 free,   179288 buffers
+KiB Swap:  2152444 total,   555272 used,  1597172 free.  1163796 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+12152 root      20   0   29624   1852   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 09:40:01
+top - 09:40:01 up 17 days, 22:44,  9 users,  load average: 0,00, 0,03, 0,08
+Tarefas: 642 total,   1 executando, 641 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,2 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7174364 used,   933300 free,   179308 buffers
+KiB Swap:  2152444 total,   555272 used,  1597172 free.  1160096 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+12408 root      20   0   29620   1848   1136 R  10,9  0,0   0:00.02 top
+MrBurns 2015-05-22 09:45:01
+top - 09:45:02 up 17 days, 22:49,  9 users,  load average: 0,65, 0,25, 0,14
+Tarefas: 645 total,   2 executando, 643 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,2 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7708564 used,   399100 free,   179676 buffers
+KiB Swap:  2152444 total,   555272 used,  1597172 free.  1163848 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+12465 ltsp8     20   0 1194948 394028  53420 S  12,3  4,9   0:38.65 firefox
+12689 root      20   0   29624   1852   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 09:50:01
+top - 09:50:01 up 17 days, 22:54, 10 users,  load average: 1,32, 0,67, 0,34
+Tarefas: 648 total,   2 executando, 646 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7837352 used,   270312 free,   169336 buffers
+KiB Swap:  2152444 total,   576664 used,  1575780 free.  1094984 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+12465 ltsp8     20   0 1340436 457768  53676 S  30,0  5,6   2:15.79 firefox
+13211 ltsp1     20   0 1329284 444436  56564 S  12,0  5,5   2:23.87 firefox
+   11 root      20   0       0      0      0 S   6,0  0,0   2:57.62 rcuos/3
+15445 root      20   0   29628   1860   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 09:55:01
+top - 09:55:01 up 17 days, 22:59,  8 users,  load average: 0,42, 0,58, 0,40
+Tarefas: 592 total,   3 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6790608 used,  1317056 free,    85364 buffers
+KiB Swap:  2152444 total,   588012 used,  1564432 free.   826488 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+12465 ltsp8     20   0 1446972 592140  52864 R  24,9  7,3   3:41.50 firefox
+ 2714 ltsp8     20   0  120020   8968   1028 S   6,2  0,1   0:50.16 sshd
+19016 root      20   0   29480   1820   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 10:00:01
+top - 10:00:01 up 17 days, 23:04,  8 users,  load average: 0,39, 0,43, 0,39
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6788348 used,  1319316 free,    85664 buffers
+KiB Swap:  2152444 total,   588012 used,  1564432 free.   826912 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+12465 ltsp8     20   0 1472048 566668  52856 S  60,6  7,0   5:07.50 firefox
+ 2714 ltsp8     20   0  120020   8968   1028 S  12,1  0,1   1:08.09 sshd
+19136 root      20   0   29480   1812   1136 R  12,1  0,0   0:00.02 top
+15037 ltsp8     20   0  476208  41548  26064 S   6,1  0,5   0:05.74 plugin-con+
+MrBurns 2015-05-22 10:05:01
+top - 10:05:01 up 17 days, 23:09,  8 users,  load average: 0,02, 0,24, 0,33
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6263900 used,  1843764 free,    85820 buffers
+KiB Swap:  2152444 total,   588012 used,  1564432 free.   826024 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19228 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+   11 root      20   0       0      0      0 S   6,1  0,0   2:57.82 rcuos/3
+MrBurns 2015-05-22 10:10:01
+top - 10:10:01 up 17 days, 23:14,  8 users,  load average: 0,04, 0,14, 0,27
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6314844 used,  1792820 free,    86180 buffers
+KiB Swap:  2152444 total,   588008 used,  1564436 free.   855384 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19413 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 10:15:01
+top - 10:15:01 up 17 days, 23:19,  8 users,  load average: 0,11, 0,08, 0,21
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6551220 used,  1556444 free,    86508 buffers
+KiB Swap:  2152444 total,   588008 used,  1564436 free.   856408 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19571 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+19476 ltsp6     20   0 1077724 253176  49860 S   6,1  3,1   0:08.87 firefox
+MrBurns 2015-05-22 10:20:01
+top - 10:20:01 up 17 days, 23:24,  8 users,  load average: 0,30, 0,20, 0,23
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6907992 used,  1199672 free,    86956 buffers
+KiB Swap:  2152444 total,   588008 used,  1564436 free.   861812 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19756 root      20   0   29480   1808   1136 R  12,3  0,0   0:00.02 top
+19573 ltsp8     20   0 1259720 392904  55488 S   6,1  4,8   0:47.93 firefox
+MrBurns 2015-05-22 10:25:01
+top - 10:25:01 up 17 days, 23:29,  8 users,  load average: 1,36, 0,60, 0,36
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7385852 used,   721812 free,    87716 buffers
+KiB Swap:  2152444 total,   587972 used,  1564472 free.   863760 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19476 ltsp6     20   0 1220840 393752  53364 S  65,6  4,9   0:49.79 firefox
+19573 ltsp8     20   0 1406980 423176  55148 S  35,8  5,2   2:11.86 firefox
+19847 ltsp4     20   0 1165876 347684  52692 S  23,9  4,3   0:46.24 firefox
+17247 ltsp6     20   0  125232  13516    984 R  17,9  0,2  88:06.32 sshd
+29355 ltsp4     20   0  123104  12944   1024 S  11,9  0,2  28:08.61 sshd
+ 2714 ltsp8     20   0  120020   9224   1028 S   6,0  0,1   1:50.77 sshd
+20011 root      20   0   29480   1816   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 10:30:01
+top - 10:30:01 up 17 days, 23:34,  8 users,  load average: 0,21, 0,43, 0,37
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6789720 used,  1317944 free,    88064 buffers
+KiB Swap:  2152444 total,   587972 used,  1564472 free.   865612 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+19573 ltsp8     20   0 1407656 475172  56604 R  49,4  5,9   4:01.03 firefox
+ 2714 ltsp8     20   0  120020   9224   1028 S   6,2  0,1   2:11.50 sshd
+17656 ltsp6     20   0  871492 156200   8848 S   6,2  1,9   0:47.17 unity-sett+
+20137 root      20   0   29480   1808   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 10:35:01
+top - 10:35:01 up 17 days, 23:39,  8 users,  load average: 0,84, 0,61, 0,45
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6488604 used,  1619060 free,    88700 buffers
+KiB Swap:  2152444 total,   587972 used,  1564472 free.   866424 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+13211 ltsp1     20   0 1375000 508780  57440 S  36,7  6,3   3:41.75 firefox
+11210 ltsp1     20   0  125236  10880    952 S  12,2  0,1 147:45.20 sshd
+20370 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 10:40:01
+top - 10:40:02 up 17 days, 23:44,  8 users,  load average: 0,03, 0,30, 0,37
+Tarefas: 587 total,   1 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6326836 used,  1780828 free,    89072 buffers
+KiB Swap:  2152444 total,   587972 used,  1564472 free.   867828 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20551 root      20   0   29480   1812   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 10:45:01
+top - 10:45:01 up 17 days, 23:49,  8 users,  load average: 0,00, 0,11, 0,27
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6325676 used,  1781988 free,    89200 buffers
+KiB Swap:  2152444 total,   587968 used,  1564476 free.   867836 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+MrBurns 2015-05-22 10:50:01
+top - 10:50:01 up 17 days, 23:54,  8 users,  load average: 0,00, 0,04, 0,19
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6331356 used,  1776308 free,    89344 buffers
+KiB Swap:  2152444 total,   587968 used,  1564476 free.   867996 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20713 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 10:55:01
+top - 10:55:01 up 17 days, 23:59,  8 users,  load average: 0,00, 0,02, 0,14
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6328956 used,  1778708 free,    89788 buffers
+KiB Swap:  2152444 total,   587968 used,  1564476 free.   868172 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20880 root      20   0   29480   1808   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 11:00:01
+top - 11:00:02 up 18 days, 4 min,  8 users,  load average: 0,45, 0,24, 0,20
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6649644 used,  1458020 free,    90408 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   871660 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20918 ltsp5     20   0 1196808 350912  52948 R  49,0  4,3   1:00.86 firefox
+13211 ltsp1     20   0 1378144 368500  56400 S   6,1  4,5   4:43.89 firefox
+16163 root      20   0       0      0      0 S   6,1  0,0   0:32.77 kworker/2:2
+21116 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 11:05:01
+top - 11:05:01 up 18 days, 9 min,  8 users,  load average: 0,76, 0,44, 0,29
+Tarefas: 588 total,   4 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6988156 used,  1119508 free,    90672 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   874776 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21278 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+20918 ltsp5     20   0 1687000 574424  57060 R   6,1  7,1   2:30.83 firefox
+21228 ltsp1     20   0  476212  41584  25996 R   6,1  0,5   0:00.45 plugin-con+
+MrBurns 2015-05-22 11:10:01
+top - 11:10:01 up 18 days, 14 min,  8 users,  load average: 0,29, 0,36, 0,30
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6610792 used,  1496872 free,    91324 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   874984 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21307 ltsp8     20   0 1152680 299484  51920 S  54,5  3,7   0:23.17 firefox
+ 2714 ltsp8     20   0  120020  10112   1028 S   6,1  0,1   2:50.30 sshd
+ 4688 root      20   0       0      0      0 S   6,1  0,0   3:20.78 kworker/1:1
+21493 root      20   0   29480   1816   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 11:15:01
+top - 11:15:01 up 18 days, 19 min,  8 users,  load average: 0,43, 0,31, 0,29
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6749068 used,  1358596 free,    91600 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   875972 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+13211 ltsp1     20   0 1441092 466608  57816 R 105,0  5,8   6:05.36 firefox
+21307 ltsp8     20   0 1196008 345316  51972 S  49,4  4,3   1:31.76 firefox
+ 2714 ltsp8     20   0  120020  10112   1028 S  18,5  0,1   3:15.80 sshd
+21690 root      20   0   29480   1812   1136 R  12,4  0,0   0:00.02 top
+MrBurns 2015-05-22 11:20:01
+top - 11:20:01 up 18 days, 24 min,  8 users,  load average: 0,37, 0,28, 0,28
+Tarefas: 588 total,   3 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6738708 used,  1368956 free,    91968 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   877336 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21814 ltsp8     20   0 1068748 240280  49380 R  30,8  3,0   0:10.04 firefox
+ 2714 ltsp8     20   0  120020  10112   1028 R  12,3  0,1   3:21.55 sshd
+21911 root      20   0   29480   1808   1136 R  12,3  0,0   0:00.02 top
+13211 ltsp1     20   0 1561348 539288  58904 S   6,2  6,7   7:18.70 firefox
+21695 ltsp1     20   0  477700  44276  27700 S   6,2  0,5   0:02.29 plugin-con+
+MrBurns 2015-05-22 11:25:01
+top - 11:25:01 up 18 days, 29 min,  8 users,  load average: 0,19, 0,18, 0,23
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6630328 used,  1477336 free,    92244 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   876492 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21983 ltsp4     20   0 1269584 443032  54252 R  61,4  5,5   0:14.70 firefox
+29355 ltsp4     20   0  123104  12944   1024 S  24,5  0,2  28:29.24 sshd
+ 2714 ltsp8     20   0  120020  10112   1028 S  18,4  0,1   3:44.51 sshd
+21814 ltsp8     20   0 1071680 240596  49852 S   6,1  3,0   0:39.13 firefox
+22089 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 11:30:01
+top - 11:30:01 up 18 days, 34 min,  8 users,  load average: 0,01, 0,12, 0,20
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6043364 used,  2064300 free,    92436 buffers
+KiB Swap:  2152444 total,   587772 used,  1564672 free.   877232 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+MrBurns 2015-05-22 11:35:01
+top - 11:35:02 up 18 days, 39 min,  8 users,  load average: 0,33, 0,28, 0,25
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6571652 used,  1536012 free,    92896 buffers
+KiB Swap:  2152444 total,   587768 used,  1564676 free.   877060 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3088 ltsp8     20   0  362656   4892   3168 S  12,3  0,1   0:09.84 ibus-daemon
+22196 ltsp8     20   0 1146236 351864  51772 S  12,3  4,3   1:14.35 firefox
+22337 ltsp5     20   0 1099908 267532  51892 S  12,3  3,3   0:09.29 firefox
+22434 root      20   0   29480   1812   1136 R  12,3  0,0   0:00.02 top
+ 3183 ltsp8     20   0  478944  16160  10872 S   6,1  0,2   0:01.34 ibus-ui-gt+
+ 3253 ltsp8     20   0  205620   3800   3084 S   6,1  0,0   0:03.23 ibus-engin+
+MrBurns 2015-05-22 11:40:01
+top - 11:40:01 up 18 days, 44 min,  8 users,  load average: 0,37, 0,34, 0,28
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6901208 used,  1206456 free,    93092 buffers
+KiB Swap:  2152444 total,   587768 used,  1564676 free.   878364 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22196 ltsp8     20   0 1136428 367772  51788 R  36,7  4,5   1:48.55 firefox
+ 2714 ltsp8     20   0  120020  10112   1028 S  12,2  0,1   4:15.90 sshd
+22570 root      20   0   29480   1816   1136 R  12,2  0,0   0:00.02 top
+ 5725 root      20   0       0      0      0 S   6,1  0,0   1:48.76 kworker/0:1
+22337 ltsp5     20   0 1375224 563924  54196 S   6,1  7,0   1:26.88 firefox
+MrBurns 2015-05-22 11:45:01
+top - 11:45:01 up 18 days, 49 min,  8 users,  load average: 0,46, 0,48, 0,36
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6892964 used,  1214700 free,    93736 buffers
+KiB Swap:  2152444 total,   587768 used,  1564676 free.   883000 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22770 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+22196 ltsp8     20   0 1137324 350420  51788 S   6,1  4,3   2:14.53 firefox
+MrBurns 2015-05-22 11:50:01
+top - 11:50:01 up 18 days, 54 min,  8 users,  load average: 0,65, 0,59, 0,44
+Tarefas: 591 total,   3 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7629592 used,   478072 free,    96256 buffers
+KiB Swap:  2152444 total,   587768 used,  1564676 free.   941344 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23022 ltsp1     20   0 1144120 336996  51176 S  30,6  4,2   0:25.95 firefox
+11210 ltsp1     20   0  125236  10880    952 S  12,2  0,1 149:03.73 sshd
+22196 ltsp8     20   0 1153788 366732  52480 S  12,2  4,5   2:49.83 firefox
+ 3253 ltsp8     20   0  205620   3800   3084 S   6,1  0,0   0:05.25 ibus-engin+
+14001 ltsp5     20   0  123276   8640    980 S   6,1  0,1 101:29.36 sshd
+17247 ltsp6     20   0  125232  13516    984 S   6,1  0,2  88:23.12 sshd
+MrBurns 2015-05-22 11:55:01
+top - 11:55:02 up 18 days, 59 min,  8 users,  load average: 0,47, 0,57, 0,48
+Tarefas: 592 total,   1 executando, 591 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7788144 used,   319520 free,    96712 buffers
+KiB Swap:  2152444 total,   587768 used,  1564676 free.   946084 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2714 ltsp8     20   0  122580  12476   1032 S  18,3  0,2   4:32.68 sshd
+22196 ltsp8     20   0 1128656 385020  52692 S  18,3  4,7   3:13.80 firefox
+23424 root      20   0   29480   1816   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 12:00:01
+top - 12:00:01 up 18 days,  1:04,  8 users,  load average: 0,82, 0,69, 0,55
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7350440 used,   757224 free,    96524 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   943540 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22337 ltsp5     20   0 1676924 548732  56604 S  46,0  6,8   6:23.59 firefox
+11210 ltsp1     20   0  125236  10876    952 S  17,2  0,1 149:35.03 sshd
+23022 ltsp1     20   0 1152032 347444  52320 S  17,2  4,3   2:09.46 firefox
+23607 root      20   0   29480   1812   1136 R  11,5  0,0   0:00.02 top
+22196 ltsp8     20   0 1245604 411380  52752 S   5,7  5,1   4:01.98 firefox
+MrBurns 2015-05-22 12:05:01
+top - 12:05:01 up 18 days,  1:09,  8 users,  load average: 0,56, 0,70, 0,60
+Tarefas: 592 total,   2 executando, 590 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7429460 used,   678204 free,    96900 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   944192 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22196 ltsp8     20   0 1259924 375220  52712 R 105,3  4,6   5:11.20 firefox
+22337 ltsp5     20   0 1699276 571612  56660 S  12,4  7,1   7:17.36 firefox
+23022 ltsp1     20   0 1347452 429436  54708 S  12,4  5,3   3:14.61 firefox
+14001 ltsp5     20   0  123276   8640    980 S   6,2  0,1 102:02.74 sshd
+23772 root      20   0   29480   1820   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 12:10:01
+top - 12:10:01 up 18 days,  1:14,  8 users,  load average: 0,70, 0,67, 0,61
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7088568 used,  1019096 free,    97208 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   943632 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2714 ltsp8     20   0  124884  15024   1032 S  12,2  0,2   5:45.27 sshd
+    3 root      20   0       0      0      0 S   6,1  0,0   8:58.47 ksoftirqd/0
+22196 ltsp8     20   0 1275824 425204  52880 S   6,1  5,2   6:30.27 firefox
+23874 root      20   0   29480   1812   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 12:15:01
+top - 12:15:02 up 18 days,  1:19,  8 users,  load average: 0,08, 0,46, 0,56
+Tarefas: 587 total,   1 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6462424 used,  1645240 free,    97504 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   951412 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24065 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 12:20:01
+top - 12:20:01 up 18 days,  1:24,  8 users,  load average: 0,00, 0,17, 0,40
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6462880 used,  1644784 free,    97656 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   951420 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22196 ltsp8     20   0 1375384 343200  65968 S  12,5  4,2   8:01.89 firefox
+11744 ltsp1     20   0 1018104 146196   9384 S   6,2  1,8   1:05.81 unity-sett+
+24153 root      20   0   29480   1816   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 12:25:01
+top - 12:25:01 up 18 days,  1:29,  8 users,  load average: 0,06, 0,08, 0,30
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6644280 used,  1463384 free,    97940 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   950536 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24309 root      20   0   29480   1808   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 12:30:01
+top - 12:30:01 up 18 days,  1:34,  8 users,  load average: 0,13, 0,14, 0,27
+Tarefas: 588 total,   3 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6732544 used,  1375120 free,    98324 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   950968 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22196 ltsp8     20   0 1407700 370668  66532 S  31,0  4,6   8:24.05 firefox
+29355 ltsp4     20   0  123104  12944   1024 R  18,6  0,2  28:56.23 sshd
+ 2714 ltsp8     20   0  124884  15024   1032 S  12,4  0,2   6:20.55 sshd
+24493 root      20   0   29480   1816   1136 R  12,4  0,0   0:00.02 top
+24311 ltsp4     20   0 1098348 288892  51420 S   6,2  3,6   0:42.87 firefox
+MrBurns 2015-05-22 12:35:01
+top - 12:35:01 up 18 days,  1:39,  8 users,  load average: 0,29, 0,25, 0,29
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6583696 used,  1523968 free,    98852 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   952476 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2714 ltsp8     20   0  124884  15024   1032 S   6,1  0,2   6:45.43 sshd
+22196 ltsp8     20   0 1567092 454772  69000 S   6,1  5,6   9:18.02 firefox
+24644 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 12:40:01
+top - 12:40:01 up 18 days,  1:44,  8 users,  load average: 0,03, 0,13, 0,23
+Tarefas: 583 total,   2 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6136820 used,  1970844 free,    99184 buffers
+KiB Swap:  2152444 total,   587888 used,  1564556 free.   951640 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24743 root      20   0   29480   1808   1136 R  12,4  0,0   0:00.02 top
+MrBurns 2015-05-22 12:45:01
+top - 12:45:01 up 18 days,  1:49,  8 users,  load average: 0,09, 0,09, 0,19
+Tarefas: 586 total,   3 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6522656 used,  1585008 free,    99612 buffers
+KiB Swap:  2152444 total,   587884 used,  1564560 free.   949840 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24814 ltsp5     20   0 1069652 242992  49648 S  36,5  3,0   0:07.84 firefox
+14001 ltsp5     20   0  123276   8640    980 R  18,2  0,1 102:18.78 sshd
+14171 ltsp5     20   0  379520  25352   2932 S  18,2  0,3   3:27.20 ibus-daemon
+14683 ltsp5     20   0  762168  31572  13708 S  12,2  0,4   2:02.15 gnome-panel
+14219 ltsp5     20   0  494400  29536   9432 S   6,1  0,4   0:36.02 ibus-ui-gt+
+14659 ltsp5     20   0  628940  15776  10516 S   6,1  0,2   1:22.02 metacity
+24966 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 12:50:01
+top - 12:50:02 up 18 days,  1:54,  8 users,  load average: 0,48, 0,40, 0,30
+Tarefas: 585 total,   3 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6726900 used,  1380764 free,    99872 buffers
+KiB Swap:  2152444 total,   587884 used,  1564560 free.   951788 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24807 ltsp6     20   0 1105788 328820  51432 R 105,5  4,1   0:51.32 firefox
+17247 ltsp6     20   0  125232  13516    984 S   6,2  0,2  88:55.66 sshd
+25066 root      20   0   29480   1804   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 12:55:01
+top - 12:55:01 up 18 days,  1:59,  8 users,  load average: 0,75, 0,51, 0,36
+Tarefas: 585 total,   4 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6673508 used,  1434156 free,   100452 buffers
+KiB Swap:  2152444 total,   587884 used,  1564560 free.   953912 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24807 ltsp6     20   0 1170708 326320  51988 R  54,8  4,0   2:23.68 firefox
+17247 ltsp6     20   0  125232  13516    984 S  12,2  0,2  89:25.06 sshd
+14171 ltsp5     20   0  379520  25352   2932 S   6,1  0,3   3:27.48 ibus-daemon
+25264 root      20   0   29480   1812   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 13:00:01
+top - 13:00:01 up 18 days,  2:04,  8 users,  load average: 1,09, 0,84, 0,54
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6892264 used,  1215400 free,   100804 buffers
+KiB Swap:  2152444 total,   587884 used,  1564560 free.   955324 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25168 ltsp5     20   0 1126724 318144  51280 S  54,9  3,9   2:26.74 firefox
+24807 ltsp6     20   0 1162896 329700  52000 S  36,6  4,1   4:35.86 firefox
+25466 root      20   0   29480   1812   1136 R  12,2  0,0   0:00.02 top
+14001 ltsp5     20   0  123276   8640    980 S   6,1  0,1 103:32.61 sshd
+17247 ltsp6     20   0  125232  13516    984 S   6,1  0,2  90:02.29 sshd
+MrBurns 2015-05-22 13:05:01
+top - 13:05:01 up 18 days,  2:09,  8 users,  load average: 1,01, 0,89, 0,64
+Tarefas: 589 total,   5 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6877008 used,  1230656 free,   101008 buffers
+KiB Swap:  2152444 total,   587884 used,  1564560 free.   957236 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24807 ltsp6     20   0 1163664 328108  52000 R  43,4  4,0   6:52.42 firefox
+25168 ltsp5     20   0 1128416 304184  51384 R  43,4  3,8   4:44.63 firefox
+17247 ltsp6     20   0  125232  13516    984 S  18,6  0,2  90:40.94 sshd
+14001 ltsp5     20   0  123276   8640    980 S  12,4  0,1 103:58.89 sshd
+25549 root      20   0   29480   1812   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 13:10:01
+top - 13:10:02 up 18 days,  2:14,  8 users,  load average: 0,66, 0,85, 0,70
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6894204 used,  1213460 free,   101168 buffers
+KiB Swap:  2152444 total,   587884 used,  1564560 free.   957300 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25168 ltsp5     20   0 1158168 323264  52024 S  55,2  4,0   6:57.27 firefox
+24807 ltsp6     20   0 1148480 328180  52244 R  42,9  4,0   9:05.83 firefox
+17247 ltsp6     20   0  125232  13516    984 S  12,3  0,2  91:18.10 sshd
+25639 root      20   0   29480   1808   1136 R  12,3  0,0   0:00.02 top
+   10 root      20   0       0      0      0 S   6,1  0,0   1:51.79 rcuos/2
+14001 ltsp5     20   0  123276   8640    980 S   6,1  0,1 104:27.88 sshd
+14683 ltsp5     20   0  762168  31572  13708 S   6,1  0,4   2:02.49 gnome-panel
+MrBurns 2015-05-22 13:15:01
+top - 13:15:01 up 18 days,  2:19,  8 users,  load average: 0,27, 0,48, 0,59
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6349388 used,  1758276 free,   101412 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   956720 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25764 root      20   0   29480   1808   1136 R  12,4  0,0   0:00.02 top
+MrBurns 2015-05-22 13:20:01
+top - 13:20:01 up 18 days,  2:24,  8 users,  load average: 0,12, 0,26, 0,46
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6421656 used,  1686008 free,   101896 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   957080 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25990 root      20   0   29480   1800   1136 R  12,4  0,0   0:00.02 top
+MrBurns 2015-05-22 13:25:01
+top - 13:25:01 up 18 days,  2:29,  8 users,  load average: 0,01, 0,12, 0,35
+Tarefas: 587 total,   2 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6388304 used,  1719360 free,   102132 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   957160 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26084 root      20   0   29480   1800   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 13:30:02
+top - 13:30:02 up 18 days,  2:34,  8 users,  load average: 0,01, 0,07, 0,27
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6414488 used,  1693176 free,   102428 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   957248 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    9 root      20   0       0      0      0 S   6,0  0,0   1:58.46 rcuos/1
+26251 root      20   0   29480   1804   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 13:35:01
+top - 13:35:01 up 18 days,  2:39,  8 users,  load average: 0,12, 0,12, 0,23
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6424044 used,  1683620 free,   102692 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   957456 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1891824 620404  60428 S  49,7  7,7  71:12.83 firefox
+    9 root      20   0       0      0      0 S   6,2  0,0   1:58.48 rcuos/1
+11210 ltsp1     20   0  125236  10876    952 S   6,2  0,1 150:07.88 sshd
+26390 root      20   0   29480   1800   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 13:40:01
+top - 13:40:01 up 18 days,  2:44,  8 users,  load average: 0,30, 0,14, 0,21
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6761156 used,  1346508 free,   103076 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   957512 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26437 ltsp4     20   0 1182420 409544  50256 S  55,9  5,1   0:25.85 firefox
+29355 ltsp4     20   0  123104  12944   1024 S  12,4  0,2  29:13.04 sshd
+26552 root      20   0   29480   1804   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 13:45:01
+top - 13:45:02 up 18 days,  2:49,  8 users,  load average: 0,00, 0,07, 0,16
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6396252 used,  1711412 free,   103208 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   957952 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26638 root      20   0   29480   1804   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 13:50:01
+top - 13:50:01 up 18 days,  2:54,  8 users,  load average: 0,00, 0,03, 0,12
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6401984 used,  1705680 free,   103304 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   958144 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26718 root      20   0   29480   1808   1136 R  12,1  0,0   0:00.02 top
+   11 root      20   0       0      0      0 S   6,1  0,0   3:00.10 rcuos/3
+MrBurns 2015-05-22 13:55:01
+top - 13:55:01 up 18 days,  2:59,  8 users,  load average: 0,18, 0,07, 0,11
+Tarefas: 587 total,   1 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6410084 used,  1697580 free,   103480 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   958196 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26820 root      20   0   29480   1804   1136 R  12,2  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,1  0,0   2:13.01 rcuos/0
+MrBurns 2015-05-22 14:00:01
+top - 14:00:01 up 18 days,  3:04,  8 users,  load average: 0,08, 0,11, 0,13
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6406768 used,  1700896 free,   103636 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   958284 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26945 root      20   0   29480   1804   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 14:05:01
+top - 14:05:02 up 18 days,  3:09,  8 users,  load average: 0,33, 0,17, 0,14
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6719608 used,  1388056 free,   104024 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   961384 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+27202 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 14:10:01
+top - 14:10:01 up 18 days,  3:14,  8 users,  load average: 0,59, 0,39, 0,23
+Tarefas: 587 total,   4 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6911604 used,  1196060 free,   104552 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   961616 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+27244 ltsp4     20   0 1310164 413892  54192 R  80,3  5,1   0:48.80 firefox
+26979 ltsp5     20   0 1231752 406240  52824 S  24,7  5,0   1:07.86 firefox
+14001 ltsp5     20   0  123276   8640    980 S   6,2  0,1 104:55.09 sshd
+27341 ltsp4     20   0  476208  41476  25924 R   6,2  0,5   0:00.86 plugin-con+
+27458 root      20   0   29480   1804   1136 R   6,2  0,0   0:00.01 top
+29355 ltsp4     20   0  123104  12944   1024 S   6,2  0,2  29:28.36 sshd
+MrBurns 2015-05-22 14:15:01
+top - 14:15:01 up 18 days,  3:19,  8 users,  load average: 0,03, 0,21, 0,20
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6154752 used,  1952912 free,   104712 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   961260 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+27595 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 14:20:01
+top - 14:20:01 up 18 days,  3:24,  8 users,  load average: 0,03, 0,13, 0,17
+Tarefas: 583 total,   2 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6155692 used,  1951972 free,   104980 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   961420 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    9 root      20   0       0      0      0 S   6,2  0,0   1:58.68 rcuos/1
+27792 root      20   0   29480   1804   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 14:25:01
+top - 14:25:02 up 18 days,  3:29,  8 users,  load average: 0,87, 0,39, 0,25
+Tarefas: 587 total,   3 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7003012 used,  1104652 free,   105440 buffers
+KiB Swap:  2152444 total,   587868 used,  1564576 free.   964064 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1955828 692860  60120 S  43,3  8,5  72:50.20 firefox
+27978 ltsp8     20   0 1389196 414776  54000 R  24,7  5,1   0:25.90 firefox
+ 2714 ltsp8     20   0  121844  12048   1032 R  18,6  0,1   7:21.10 sshd
+   45 root      20   0       0      0      0 S   6,2  0,0   0:34.74 ksoftirqd/1
+27187 ltsp2     20   0  124184  13132   1024 S   6,2  0,2  19:42.36 sshd
+27899 ltsp4     20   0 13,177g 406036  53604 S   6,2  5,0   0:26.31 firefox
+28152 root      20   0   29480   1808   1136 R   6,2  0,0   0:00.02 top
+MrBurns 2015-05-22 14:30:01
+top - 14:30:01 up 18 days,  3:34,  8 users,  load average: 0,33, 0,40, 0,30
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6661040 used,  1446624 free,   105708 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   966140 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28201 ltsp4     20   0 1097260 262332  51144 R 105,9  3,2   0:25.16 firefox
+28350 root      20   0   29480   1808   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 14:35:01
+top - 14:35:01 up 18 days,  3:39,  8 users,  load average: 0,11, 0,26, 0,28
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6791560 used,  1316104 free,   105888 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   969084 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28460 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+20889 ltsp2     20   0 1892352 618672  60936 S   6,2  7,6  74:08.11 firefox
+27187 ltsp2     20   0  124184  13132   1024 S   6,2  0,2  20:06.29 sshd
+MrBurns 2015-05-22 14:40:01
+top - 14:40:01 up 18 days,  3:44,  8 users,  load average: 0,21, 0,22, 0,25
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6803296 used,  1304368 free,   106080 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   969208 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28560 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 14:45:01
+top - 14:45:01 up 18 days,  3:49,  8 users,  load average: 0,02, 0,12, 0,20
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6432908 used,  1674756 free,   106188 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   968172 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28658 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 14:50:01
+top - 14:50:01 up 18 days,  3:54,  8 users,  load average: 0,00, 0,04, 0,14
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6433064 used,  1674600 free,   106296 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   968176 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28735 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 14:55:01
+top - 14:55:01 up 18 days,  3:59,  8 users,  load average: 0,00, 0,01, 0,11
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6434200 used,  1673464 free,   106420 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   968228 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28823 root      20   0   29480   1804   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 15:00:01
+top - 15:00:02 up 18 days,  4:04,  8 users,  load average: 0,00, 0,01, 0,08
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6433980 used,  1673684 free,   106528 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   968228 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28912 root      20   0   29480   1808   1136 R  12,3  0,0   0:00.02 top
+   11 root      20   0       0      0      0 S   6,1  0,0   3:00.62 rcuos/3
+MrBurns 2015-05-22 15:05:01
+top - 15:05:01 up 18 days,  4:09,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6434068 used,  1673596 free,   106624 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   968248 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+28992 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 15:10:01
+top - 15:10:01 up 18 days,  4:14,  8 users,  load average: 0,04, 0,03, 0,05
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6433276 used,  1674388 free,   106784 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   969408 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1860620 638376  59820 S   6,1  7,9  74:31.55 firefox
+26719 root      20   0       0      0      0 S   6,1  0,0   0:00.91 kworker/u3+
+27187 ltsp2     20   0  124184  13132   1024 S   6,1  0,2  20:13.02 sshd
+29108 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 15:15:01
+top - 15:15:01 up 18 days,  4:19,  8 users,  load average: 0,04, 0,04, 0,05
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6633096 used,  1474568 free,   107020 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   969492 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1860620 638376  59820 S   6,1  7,9  74:33.23 firefox
+29264 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 15:20:01
+top - 15:20:02 up 18 days,  4:24,  8 users,  load average: 0,71, 0,40, 0,19
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6681584 used,  1426080 free,   107384 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971320 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1879908 656612  60452 S  36,6  8,1  75:26.44 firefox
+29392 ltsp1     20   0 1142180 275256  52628 S  36,6  3,4   0:50.37 firefox
+11210 ltsp1     20   0  125236  10876    952 S  18,3  0,1 150:42.57 sshd
+27187 ltsp2     20   0  124184  13132   1024 S  18,3  0,2  20:26.96 sshd
+29585 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 15:25:01
+top - 15:25:01 up 18 days,  4:29,  8 users,  load average: 0,03, 0,27, 0,20
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6203120 used,  1904544 free,   107540 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971908 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+29774 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 15:30:01
+top - 15:30:01 up 18 days,  4:34,  8 users,  load average: 0,04, 0,19, 0,20
+Tarefas: 583 total,   1 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6202796 used,  1904868 free,   107848 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971076 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+30022 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 15:35:01
+top - 15:35:01 up 18 days,  4:39,  8 users,  load average: 0,00, 0,07, 0,15
+Tarefas: 583 total,   2 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6195156 used,  1912508 free,   107972 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971080 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+30126 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 15:40:01
+top - 15:40:02 up 18 days,  4:44,  8 users,  load average: 0,24, 0,13, 0,15
+Tarefas: 583 total,   2 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6194548 used,  1913116 free,   108232 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971144 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+30301 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 15:45:01
+top - 15:45:01 up 18 days,  4:49,  8 users,  load average: 0,00, 0,05, 0,11
+Tarefas: 583 total,   2 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6195612 used,  1912052 free,   108328 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971148 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+30385 root      20   0   29480   1804   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 15:50:01
+top - 15:50:01 up 18 days,  4:54,  8 users,  load average: 0,02, 0,05, 0,10
+Tarefas: 583 total,   2 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6198232 used,  1909432 free,   108584 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   972176 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   10 root      20   0       0      0      0 S   6,1  0,0   1:52.44 rcuos/2
+30542 root      20   0   29480   1800   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 15:55:01
+top - 15:55:01 up 18 days,  4:59,  8 users,  load average: 0,00, 0,02, 0,07
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6199356 used,  1908308 free,   108704 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   972176 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+30630 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+    9 root      20   0       0      0      0 S   6,1  0,0   1:59.03 rcuos/1
+MrBurns 2015-05-22 16:00:01
+top - 16:00:01 up 18 days,  5:04,  8 users,  load average: 0,01, 0,03, 0,05
+Tarefas: 583 total,   1 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6199972 used,  1907692 free,   108912 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   972264 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   11 root      20   0       0      0      0 S   6,1  0,0   3:00.98 rcuos/3
+30807 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 16:05:01
+top - 16:05:01 up 18 days,  5:09,  8 users,  load average: 0,00, 0,02, 0,05
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6200700 used,  1906964 free,   109032 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   972272 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    9 root      20   0       0      0      0 S   6,1  0,0   1:59.06 rcuos/1
+30887 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 16:10:01
+top - 16:10:01 up 18 days,  5:14,  8 users,  load average: 0,22, 0,16, 0,09
+Tarefas: 583 total,   1 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6198492 used,  1909172 free,   109468 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971232 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31140 root      20   0   29480   1804   1136 R  18,1  0,0   0:00.03 top
+MrBurns 2015-05-22 16:15:01
+top - 16:15:02 up 18 days,  5:19,  8 users,  load average: 0,00, 0,06, 0,06
+Tarefas: 583 total,   1 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6199076 used,  1908588 free,   109580 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971244 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31220 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.03 top
+    7 root      20   0       0      0      0 S   6,1  0,0   2:55.89 rcu_sched
+MrBurns 2015-05-22 16:20:01
+top - 16:20:01 up 18 days,  5:24,  8 users,  load average: 0,46, 0,16, 0,08
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6527720 used,  1579944 free,   109864 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   970376 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1935412 707760  61284 R 110,1  8,7  76:32.47 firefox
+    9 root      20   0       0      0      0 S   6,1  0,0   1:59.13 rcuos/1
+31414 root      20   0   29480   1800   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 16:25:01
+top - 16:25:01 up 18 days,  5:29,  8 users,  load average: 0,04, 0,15, 0,12
+Tarefas: 584 total,   3 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6257688 used,  1849976 free,   110032 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971496 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1927892 675044  60224 S  12,3  8,3  77:39.30 firefox
+27187 ltsp2     20   0  124184  13132   1024 R  12,3  0,2  21:03.66 sshd
+31526 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 16:30:01
+top - 16:30:01 up 18 days,  5:34,  8 users,  load average: 0,29, 0,19, 0,15
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6230076 used,  1877588 free,   110316 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971912 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31706 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 16:35:01
+top - 16:35:02 up 18 days,  5:39,  8 users,  load average: 0,11, 0,10, 0,12
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6437748 used,  1669916 free,   110544 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971004 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31768 ltsp6     20   0 1095276 271736  50356 S   6,1  3,4   0:09.63 firefox
+31863 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 16:40:01
+top - 16:40:01 up 18 days,  5:44,  8 users,  load average: 0,00, 0,04, 0,09
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6224192 used,  1883472 free,   110740 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971932 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+29656 ltsp4     20   0 1017580 183280  11828 S   6,1  2,3   0:12.75 unity-sett+
+31967 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.02 top
+MrBurns 2015-05-22 16:45:01
+top - 16:45:01 up 18 days,  5:49,  8 users,  load average: 0,19, 0,10, 0,10
+Tarefas: 585 total,   3 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6755616 used,  1352048 free,   111040 buffers
+KiB Swap:  2152444 total,   587864 used,  1564580 free.   971648 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32126 ltsp8     20   0  833636 219576  44544 R 105,2  2,7   0:02.60 firefox
+32004 ltsp4     20   0 1238932 399868  51988 S  18,6  4,9   0:44.45 firefox
+32202 root      20   0   29480   1804   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 16:50:01
+top - 16:50:01 up 18 days,  5:54,  8 users,  load average: 0,67, 0,37, 0,21
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7402424 used,   705240 free,   109000 buffers
+KiB Swap:  2152444 total,   587920 used,  1564524 free.   967468 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32436 ltsp6     20   0 1085568 245528  49396 S  18,4  3,0   0:05.51 firefox
+32126 ltsp8     20   0 1575748 665372  54844 S  12,3  8,2   1:10.19 firefox
+32523 root      20   0   29480   1800   1136 R  12,3  0,0   0:00.02 top
+32305 ltsp1     20   0 1263464 387688  51776 S   6,1  4,8   0:34.92 firefox
+MrBurns 2015-05-22 16:55:01
+top - 16:55:02 up 18 days,  5:59,  8 users,  load average: 0,28, 0,41, 0,28
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7791452 used,   316212 free,   105248 buffers
+KiB Swap:  2152444 total,   587964 used,  1564480 free.   967684 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32126 ltsp8     20   0 2240672 1,229g  57840 S  55,5 15,9   2:42.31 firefox
+ 2714 ltsp8     20   0  121844  12048   1032 S  18,5  0,1   8:14.15 sshd
+32674 root      20   0   29480   1804   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 17:00:01
+top - 17:00:01 up 18 days,  6:04,  8 users,  load average: 1,44, 0,85, 0,49
+Tarefas: 586 total,   5 executando, 581 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7856492 used,   251172 free,     4340 buffers
+KiB Swap:  2152444 total,   629688 used,  1522756 free.   129560 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32126 ltsp8     20   0 2760644 1,717g  49344 R  41,0 22,2   4:26.36 firefox
+32697 ltsp5     20   0 1546668 610896  47008 R  36,4  7,5   1:31.48 firefox
+  420 root      20   0   29480   1812   1136 R   9,1  0,0   0:00.02 top
+11210 ltsp1     20   0  125236  10380    788 S   9,1  0,1 151:41.85 sshd
+32305 ltsp1     20   0 1277708 334264  45792 S   4,6  4,1   0:51.55 firefox
+MrBurns 2015-05-22 17:05:01
+top - 17:05:02 up 18 days,  6:09,  8 users,  load average: 0,93, 0,77, 0,55
+Tarefas: 586 total,   2 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7231688 used,   875976 free,     9088 buffers
+KiB Swap:  2152444 total,   629688 used,  1522756 free.   219584 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1935216 686680  52164 S  30,8  8,5  78:50.90 firefox
+27187 ltsp2     20   0  124184  12916    808 S  24,6  0,2  21:21.84 sshd
+ 3497 ltsp8     20   0  941888  30228  15568 S   6,2  0,4   0:04.49 nautilus
+MrBurns 2015-05-22 17:10:01
+top - 17:10:01 up 18 days,  6:14,  8 users,  load average: 1,18, 0,80, 0,61
+Tarefas: 586 total,   3 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  7165940 used,   941724 free,    11000 buffers
+KiB Swap:  2152444 total,   629688 used,  1522756 free.   275472 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+20889 ltsp2     20   0 1922160 691896  52312 S  42,4  8,5  79:03.26 firefox
+27187 ltsp2     20   0  124184  12916    808 S  24,2  0,2  21:26.33 sshd
+  911 ltsp5     20   0 1139828 283000  52712 S  12,1  3,5   0:33.27 firefox
+ 1130 root      20   0   29480   1812   1136 R   6,1  0,0   0:00.01 top
+ 2714 ltsp8     20   0  121844  11824    808 S   6,1  0,1   9:32.06 sshd
+32126 ltsp8     20   0 2887148 1,175g  50984 R   6,1 15,2   8:37.61 firefox
+MrBurns 2015-05-22 17:15:01
+top - 17:15:01 up 18 days,  6:19,  8 users,  load average: 0,15, 0,58, 0,58
+Tarefas: 586 total,   1 executando, 585 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6592512 used,  1515152 free,    12688 buffers
+KiB Swap:  2152444 total,   629680 used,  1522764 free.   312708 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1387 root      20   0   29480   1812   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 17:20:01
+top - 17:20:01 up 18 days,  6:24,  8 users,  load average: 0,22, 0,45, 0,54
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6266184 used,  1841480 free,    14252 buffers
+KiB Swap:  2152444 total,   629680 used,  1522764 free.   342584 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32126 ltsp8     20   0 2683348 837980  50860 S 116,4 10,3  10:37.20 firefox
+ 2714 ltsp8     20   0  121844  11824    808 S  12,2  0,1  10:05.80 sshd
+ 1808 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 17:25:01
+top - 17:25:02 up 18 days,  6:29,  8 users,  load average: 0,20, 0,29, 0,44
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6114628 used,  1993036 free,    14800 buffers
+KiB Swap:  2152444 total,   629680 used,  1522764 free.   350592 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1998 root      20   0   29480   1808   1136 R  12,2  0,0   0:00.02 top
+32126 ltsp8     20   0 2735204 681292  56912 S   6,1  8,4  12:14.42 firefox
+MrBurns 2015-05-22 17:30:01
+top - 17:30:01 up 18 days,  6:34,  8 users,  load average: 0,58, 0,48, 0,48
+Tarefas: 585 total,   3 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6406576 used,  1701088 free,    15260 buffers
+KiB Swap:  2152444 total,   629680 used,  1522764 free.   354536 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32126 ltsp8     20   0 2734332 727408  57032 S  48,6  9,0  14:35.84 firefox
+ 2714 ltsp8     20   0  121844  11824    808 R  18,2  0,1  10:56.13 sshd
+ 2028 ltsp1     20   0 1148704 289176  52600 S   6,1  3,6   0:46.63 firefox
+ 2191 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 17:35:01
+top - 17:35:01 up 18 days,  6:39,  8 users,  load average: 0,37, 0,48, 0,49
+Tarefas: 585 total,   2 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6159576 used,  1948088 free,    16148 buffers
+KiB Swap:  2152444 total,   629680 used,  1522764 free.   357080 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+32126 ltsp8     20   0 2755976 725264  57044 S  12,2  8,9  16:08.20 firefox
+ 2413 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 17:40:01
+top - 17:40:01 up 18 days,  6:44,  8 users,  load average: 0,06, 0,27, 0,40
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5505604 used,  2602060 free,    17296 buffers
+KiB Swap:  2152444 total,   628732 used,  1523712 free.   374108 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2600 root      20   0   29480   1812   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 17:45:01
+top - 17:45:01 up 18 days,  6:49,  8 users,  load average: 0,03, 0,17, 0,33
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5508564 used,  2599100 free,    17712 buffers
+KiB Swap:  2152444 total,   628720 used,  1523724 free.   375692 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+MrBurns 2015-05-22 17:50:01
+top - 17:50:01 up 18 days,  6:54,  8 users,  load average: 0,00, 0,06, 0,24
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5508264 used,  2599400 free,    17872 buffers
+KiB Swap:  2152444 total,   628720 used,  1523724 free.   375700 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2920 root      20   0   29480   1804   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 17:55:01
+top - 17:55:01 up 18 days,  6:59,  8 users,  load average: 0,17, 0,13, 0,22
+Tarefas: 584 total,   1 executando, 583 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5801128 used,  2306536 free,    18648 buffers
+KiB Swap:  2152444 total,   628720 used,  1523724 free.   375820 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2714 ltsp8     20   0  121844  11824    808 S  30,7  0,1  11:46.35 sshd
+ 3169 ltsp8     20   0 1059284 337632  48704 S   6,1  4,2   0:04.16 firefox
+ 3289 root      20   0   29480   1812   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 18:00:01
+top - 18:00:02 up 18 days,  7:04,  8 users,  load average: 0,11, 0,10, 0,19
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5733808 used,  2373856 free,    19044 buffers
+KiB Swap:  2152444 total,   628720 used,  1523724 free.   377064 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3169 ltsp8     20   0 1084108 270480  51380 S  18,4  3,3   0:42.81 firefox
+ 3399 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 18:05:01
+top - 18:05:01 up 18 days,  7:09,  8 users,  load average: 0,00, 0,04, 0,14
+Tarefas: 585 total,   1 executando, 584 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5735940 used,  2371724 free,    19236 buffers
+KiB Swap:  2152444 total,   628720 used,  1523724 free.   377072 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3501 root      20   0   29480   1804   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 18:10:01
+top - 18:10:01 up 18 days,  7:14,  8 users,  load average: 0,02, 0,03, 0,11
+Tarefas: 584 total,   2 executando, 582 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5734348 used,  2373316 free,    19456 buffers
+KiB Swap:  2152444 total,   628720 used,  1523724 free.   377112 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3600 root      20   0   29480   1808   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 18:15:01
+top - 18:15:01 up 18 days,  7:19,  8 users,  load average: 0,31, 0,14, 0,14
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5893800 used,  2213864 free,    20324 buffers
+KiB Swap:  2152444 total,   628516 used,  1523928 free.   379152 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3736 root      20   0   29480   1740   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 18:20:01
+top - 18:20:02 up 18 days,  7:24,  8 users,  load average: 0,61, 0,40, 0,24
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6377836 used,  1729828 free,    21384 buffers
+KiB Swap:  2152444 total,   628516 used,  1523928 free.   387452 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3995 ltsp6     20   0 1169524 300572  52824 S  24,7  3,7   0:18.19 firefox
+ 4206 root      20   0   29480   1956   1136 R  12,4  0,0   0:00.02 top
+ 2714 ltsp8     20   0  121844  11824    808 S   6,2  0,1  12:41.82 sshd
+17247 ltsp6     20   0  125232  13032    800 S   6,2  0,2  92:17.20 sshd
+MrBurns 2015-05-22 18:25:01
+top - 18:25:01 up 18 days,  7:29,  8 users,  load average: 0,72, 0,49, 0,31
+Tarefas: 593 total,   4 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6906524 used,  1201140 free,    24480 buffers
+KiB Swap:  2152444 total,   628504 used,  1523940 free.   492392 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4109 ltsp1     20   0 1460552 378064  52076 R  36,4  4,7   1:33.58 firefox
+ 3995 ltsp6     20   0 1437832 453620  55240 S  18,2  5,6   0:43.90 firefox
+17247 ltsp6     20   0  125232  13032    800 S  18,2  0,2  92:29.89 sshd
+ 4390 ltsp1     20   0  494644  58364  25744 S  12,1  0,7   0:00.89 plugin-con+
+    8 root      20   0       0      0      0 S   6,1  0,0   2:14.67 rcuos/0
+ 4445 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+11210 ltsp1     20   0  125236  10380    788 S   6,1  0,1 152:50.51 sshd
+MrBurns 2015-05-22 18:30:01
+top - 18:30:01 up 18 days,  7:34,  8 users,  load average: 0,22, 0,38, 0,31
+Tarefas: 589 total,   3 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6037732 used,  2069932 free,    24856 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   490644 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4109 ltsp1     20   0 1453020 369164  51836 R 112,0  4,6   2:27.01 firefox
+ 4591 root      20   0   29480   1952   1136 R   6,2  0,0   0:00.01 top
+11210 ltsp1     20   0  125236  10380    788 R   6,2  0,1 153:14.91 sshd
+11873 ltsp1     20   0  629176  13688   9468 S   6,2  0,2   2:14.21 metacity
+MrBurns 2015-05-22 18:35:01
+top - 18:35:01 up 18 days,  7:39,  8 users,  load average: 0,13, 0,28, 0,30
+Tarefas: 590 total,   1 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5978552 used,  2129112 free,    25472 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   491696 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4652 ltsp8     20   0 1091468 308920  49680 S   6,0  3,8   0:12.18 firefox
+ 4764 root      20   0   29480   1948   1136 R   6,0  0,0   0:00.02 top
+MrBurns 2015-05-22 18:40:01
+top - 18:40:02 up 18 days,  7:44,  8 users,  load average: 0,20, 0,27, 0,30
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5719276 used,  2388388 free,    25968 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   492992 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4975 root      20   0   29480   1952   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 18:45:01
+top - 18:45:01 up 18 days,  7:49,  8 users,  load average: 0,00, 0,10, 0,21
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5726040 used,  2381624 free,    26144 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493008 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5063 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 18:50:01
+top - 18:50:01 up 18 days,  7:54,  8 users,  load average: 0,00, 0,05, 0,17
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5741376 used,  2366288 free,    26536 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493028 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+MrBurns 2015-05-22 18:55:01
+top - 18:55:02 up 18 days,  7:59,  8 users,  load average: 0,01, 0,04, 0,13
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5741928 used,  2365736 free,    26916 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493104 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5389 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:00:01
+top - 19:00:01 up 18 days,  8:04,  8 users,  load average: 0,00, 0,01, 0,10
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5742140 used,  2365524 free,    27096 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493116 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5478 root      20   0   29480   1952   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 19:05:01
+top - 19:05:01 up 18 days,  8:09,  8 users,  load average: 0,00, 0,01, 0,07
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5742640 used,  2365024 free,    27264 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493124 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5559 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:10:01
+top - 19:10:01 up 18 days,  8:14,  8 users,  load average: 0,02, 0,02, 0,05
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5740100 used,  2367564 free,    27492 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493164 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    8 root      20   0       0      0      0 S   6,1  0,0   2:14.89 rcuos/0
+ 5641 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:15:01
+top - 19:15:02 up 18 days,  8:19,  8 users,  load average: 0,30, 0,18, 0,10
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6120928 used,  1986736 free,    27856 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493432 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5657 ltsp1     20   0 1206328 413052  53176 S   6,1  5,1   0:43.29 firefox
+ 5819 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:20:01
+top - 19:20:01 up 18 days,  8:24,  8 users,  load average: 0,07, 0,18, 0,13
+Tarefas: 590 total,   1 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6067832 used,  2039832 free,    28252 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493680 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5922 ltsp8     20   0  476208  41172  25852 S   6,1  0,5   0:01.73 plugin-con+
+ 6031 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:25:01
+top - 19:25:01 up 18 days,  8:29,  8 users,  load average: 0,15, 0,15, 0,14
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6108492 used,  1999172 free,    28480 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493840 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5922 ltsp8     20   0  476208  41172  25852 S   6,0  0,5   0:03.78 plugin-con+
+ 6136 root      20   0   29480   1948   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 19:30:01
+top - 19:30:01 up 18 days,  8:34,  8 users,  load average: 0,23, 0,17, 0,15
+Tarefas: 591 total,   1 executando, 590 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6074192 used,  2033472 free,    28736 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   494108 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6229 root      20   0   29480   1960   1136 R  12,3  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,1  0,0   2:15.01 rcuos/0
+   11 root      20   0       0      0      0 S   6,1  0,0   3:03.21 rcuos/3
+ 5822 ltsp8     20   0 1301232 366816  54028 S   6,1  4,5   1:47.19 firefox
+ 5922 ltsp8     20   0  476208  41288  25956 S   6,1  0,5   0:05.86 plugin-con+
+MrBurns 2015-05-22 19:35:01
+top - 19:35:02 up 18 days,  8:39,  8 users,  load average: 0,26, 0,18, 0,15
+Tarefas: 591 total,   1 executando, 590 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6072072 used,  2035592 free,    28940 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   494128 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6347 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:40:01
+top - 19:40:01 up 18 days,  8:44,  8 users,  load average: 0,04, 0,10, 0,12
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6098404 used,  2009260 free,    29164 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   494172 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5822 ltsp8     20   0 1286264 403100  53876 S  31,1  5,0   2:43.72 firefox
+ 2714 ltsp8     20   0  121908  11824    808 S  18,6  0,1  13:45.67 sshd
+ 6447 root      20   0   29480   1952   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 19:45:01
+top - 19:45:01 up 18 days,  8:49,  8 users,  load average: 0,32, 0,19, 0,15
+Tarefas: 593 total,   2 executando, 591 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6464256 used,  1643408 free,    29524 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   493388 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6652 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:50:01
+top - 19:50:01 up 18 days,  8:54,  8 users,  load average: 0,06, 0,15, 0,14
+Tarefas: 590 total,   3 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6110692 used,  1996972 free,    29812 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   494244 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5822 ltsp8     20   0 1285460 416624  53768 S  42,8  5,1   4:01.62 firefox
+ 2714 ltsp8     20   0  121908  11824    808 S   6,1  0,1  14:02.59 sshd
+ 3088 ltsp8     20   0  364872   9428   2928 S   6,1  0,1   0:36.31 ibus-daemon
+ 3183 ltsp8     20   0  480792  16116   9156 S   6,1  0,2   0:05.79 ibus-ui-gt+
+ 6763 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 19:55:02
+top - 19:55:02 up 18 days,  8:59,  8 users,  load average: 0,12, 0,12, 0,14
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6111640 used,  1996024 free,    30396 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   503972 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6934 root      20   0   29480   1956   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 20:00:01
+top - 20:00:01 up 18 days,  9:04,  8 users,  load average: 0,04, 0,09, 0,13
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6138840 used,  1968824 free,    30576 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   503976 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   10 root      20   0       0      0      0 S   6,1  0,0   1:53.68 rcuos/2
+ 2714 ltsp8     20   0  121908  11824    808 S   6,1  0,1  14:21.04 sshd
+ 5822 ltsp8     20   0 1302888 435752  53820 S   6,1  5,4   5:06.60 firefox
+ 7020 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 20:05:01
+top - 20:05:01 up 18 days,  9:09,  8 users,  load average: 0,05, 0,08, 0,12
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6108696 used,  1998968 free,    30772 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   503996 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7128 root      20   0   29480   1956   1136 R  12,2  0,0   0:00.02 top
+ 5822 ltsp8     20   0 1333636 404608  53832 S   6,1  5,0   5:31.56 firefox
+MrBurns 2015-05-22 20:10:01
+top - 20:10:02 up 18 days,  9:14,  8 users,  load average: 0,27, 0,14, 0,14
+Tarefas: 591 total,   2 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6147204 used,  1960460 free,    31016 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   505736 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 5822 ltsp8     20   0 1342120 436104  55696 S  12,1  5,4   5:59.10 firefox
+    8 root      20   0       0      0      0 S   6,1  0,0   2:15.18 rcuos/0
+ 2714 ltsp8     20   0  121908  11824    808 R   6,1  0,1  14:36.20 sshd
+ 7231 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 20:15:01
+top - 20:15:01 up 18 days,  9:19,  8 users,  load average: 0,27, 0,27, 0,19
+Tarefas: 591 total,   1 executando, 590 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6145392 used,  1962272 free,    31288 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   505840 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7318 root      20   0   29480   1952   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 20:20:01
+top - 20:20:01 up 18 days,  9:24,  8 users,  load average: 0,06, 0,15, 0,17
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6142804 used,  1964860 free,    31444 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   505856 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7415 root      20   0   29480   1956   1136 R  12,2  0,0   0:00.02 top
+ 5822 ltsp8     20   0 1346136 429796  56692 S   6,1  5,3   7:01.71 firefox
+MrBurns 2015-05-22 20:25:01
+top - 20:25:01 up 18 days,  9:29,  8 users,  load average: 0,01, 0,07, 0,13
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5743900 used,  2363764 free,    31656 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   504008 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7507 root      20   0   29480   1948   1136 R  12,2  0,0   0:00.02 top
+    8 root      20   0       0      0      0 S   6,1  0,0   2:15.23 rcuos/0
+MrBurns 2015-05-22 20:30:01
+top - 20:30:02 up 18 days,  9:34,  8 users,  load average: 0,00, 0,03, 0,10
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5990956 used,  2116708 free,    32008 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   503168 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7663 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 20:35:01
+top - 20:35:01 up 18 days,  9:39,  8 users,  load average: 0,39, 0,23, 0,16
+Tarefas: 591 total,   1 executando, 590 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6514732 used,  1592932 free,    32520 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506108 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7557 ltsp1     20   0 1202052 387624  51748 S  24,5  4,8   0:57.07 firefox
+ 7693 ltsp8     20   0 1258316 464388  52896 S  24,5  5,7   0:49.40 firefox
+11210 ltsp1     20   0  125236  10380    788 S  18,3  0,1 154:28.33 sshd
+ 7871 root      20   0   29480   1960   1136 R  12,2  0,0   0:00.02 top
+ 2714 ltsp8     20   0  121908  11824    808 S   6,1  0,1  15:13.00 sshd
+11744 ltsp1     20   0 1018104 144364   8516 S   6,1  1,8   1:06.83 unity-sett+
+MrBurns 2015-05-22 20:40:01
+top - 20:40:01 up 18 days,  9:44,  8 users,  load average: 0,31, 0,30, 0,22
+Tarefas: 591 total,   3 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6598244 used,  1509420 free,    32816 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506356 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7693 ltsp8     20   0 1330080 529704  53600 R  18,4  6,5   1:46.45 firefox
+ 3088 ltsp8     20   0  365136   9692   2928 S   6,1  0,1   0:44.46 ibus-daemon
+ 3253 ltsp8     20   0  205620   3608   2892 S   6,1  0,0   0:13.98 ibus-engin+
+ 7973 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 20:45:01
+top - 20:45:01 up 18 days,  9:49,  8 users,  load average: 0,35, 0,32, 0,24
+Tarefas: 592 total,   2 executando, 590 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6647520 used,  1460144 free,    33060 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506464 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7693 ltsp8     20   0 1384604 571868  53712 S  31,0  7,1   2:52.38 firefox
+ 2714 ltsp8     20   0  121908  11824    808 S  12,4  0,1  15:34.64 sshd
+ 8071 root      20   0   29480   1956   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 20:50:01
+top - 20:50:02 up 18 days,  9:54,  8 users,  load average: 0,61, 0,53, 0,35
+Tarefas: 590 total,   1 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6320160 used,  1787504 free,    33612 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506872 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 7693 ltsp8     20   0 1473512 610956  55184 S  36,3  7,5   4:59.32 firefox
+ 2714 ltsp8     20   0  121908  11824    808 S  24,2  0,1  15:57.34 sshd
+ 8280 root      20   0   29480   1948   1136 R  12,1  0,0   0:00.02 top
+ 8249 ltsp8     20   0  476208  41460  26004 S   6,0  0,5   0:00.20 plugin-con+
+MrBurns 2015-05-22 20:55:01
+top - 20:55:01 up 18 days,  9:59,  8 users,  load average: 0,11, 0,34, 0,32
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5765432 used,  2342232 free,    33968 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506952 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 8374 root      20   0   29480   1952   1136 R  12,2  0,0   0:00.02 top
+    7 root      20   0       0      0      0 R   6,1  0,0   2:58.19 rcu_sched
+    8 root      20   0       0      0      0 S   6,1  0,0   2:15.44 rcuos/0
+MrBurns 2015-05-22 21:00:01
+top - 21:00:01 up 18 days, 10:04,  8 users,  load average: 0,00, 0,12, 0,23
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5768224 used,  2339440 free,    34128 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506960 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 8461 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 21:05:01
+top - 21:05:01 up 18 days, 10:09,  8 users,  load average: 0,00, 0,04, 0,17
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5768688 used,  2338976 free,    34288 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506972 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 8541 root      20   0   29480   1956   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 21:10:01
+top - 21:10:01 up 18 days, 10:14,  8 users,  load average: 0,00, 0,02, 0,12
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5766840 used,  2340824 free,    34500 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507012 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 8627 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 21:15:01
+top - 21:15:01 up 18 days, 10:19,  8 users,  load average: 0,00, 0,01, 0,09
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5765860 used,  2341804 free,    34656 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507012 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    7 root      20   0       0      0      0 R   6,0  0,0   2:58.26 rcu_sched
+ 8705 root      20   0   29480   1952   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 21:20:01
+top - 21:20:01 up 18 days, 10:24,  8 users,  load average: 0,00, 0,01, 0,07
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5765804 used,  2341860 free,    35004 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507032 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 8868 root      20   0   29480   1952   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 21:25:01
+top - 21:25:02 up 18 days, 10:29,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5766112 used,  2341552 free,    35160 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507048 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 8950 root      20   0   29480   1948   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 21:30:01
+top - 21:30:01 up 18 days, 10:34,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5765456 used,  2342208 free,    35312 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507056 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    8 root      20   0       0      0      0 S   6,0  0,0   2:15.51 rcuos/0
+ 9029 root      20   0   29480   1956   1136 R   6,0  0,0   0:00.01 top
+11744 ltsp1     20   0 1018104 144364   8516 S   6,0  1,8   1:06.95 unity-sett+
+MrBurns 2015-05-22 21:35:01
+top - 21:35:01 up 18 days, 10:39,  8 users,  load average: 0,02, 0,02, 0,05
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5749900 used,  2357764 free,    35500 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507060 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9109 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 21:40:01
+top - 21:40:01 up 18 days, 10:44,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5750456 used,  2357208 free,    35728 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507108 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9198 root      20   0   29480   1952   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 21:45:01
+top - 21:45:02 up 18 days, 10:49,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5750852 used,  2356812 free,    35892 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507116 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9277 root      20   0   29480   1956   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 21:50:01
+top - 21:50:01 up 18 days, 10:54,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5972604 used,  2135060 free,    36216 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   506416 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9427 root      20   0   29480   1952   1136 R  12,0  0,0   0:00.02 top
+MrBurns 2015-05-22 21:55:01
+top - 21:55:01 up 18 days, 10:59,  8 users,  load average: 0,37, 0,26, 0,14
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5751828 used,  2355836 free,    36732 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507340 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9543 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:00:01
+top - 22:00:01 up 18 days, 11:04,  8 users,  load average: 0,19, 0,22, 0,15
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6165796 used,  1941868 free,    37128 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508284 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9559 ltsp1     20   0 1358388 461124  55120 S  18,2  5,7   0:40.47 firefox
+11210 ltsp1     20   0  125236  10380    788 R  18,2  0,1 155:48.48 sshd
+ 9722 root      20   0   29480   1952   1136 R  12,1  0,0   0:00.02 top
+    9 root      20   0       0      0      0 S   6,1  0,0   2:00.83 rcuos/1
+MrBurns 2015-05-22 22:05:01
+top - 22:05:02 up 18 days, 11:09,  8 users,  load average: 0,09, 0,16, 0,14
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5753784 used,  2353880 free,    37572 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507548 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9895 root      20   0   29480   1956   1136 R  12,3  0,0   0:00.02 top
+MrBurns 2015-05-22 22:10:01
+top - 22:10:01 up 18 days, 11:14,  8 users,  load average: 0,00, 0,06, 0,11
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5753936 used,  2353728 free,    37736 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507556 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 9973 root      20   0   29480   1952   1136 R  12,2  0,0   0:00.02 top
+MrBurns 2015-05-22 22:15:01
+top - 22:15:01 up 18 days, 11:19,  8 users,  load average: 0,08, 0,04, 0,08
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5753824 used,  2353840 free,    37892 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507564 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10055 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:20:01
+top - 22:20:01 up 18 days, 11:24,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5754856 used,  2352808 free,    38052 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507572 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10160 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:25:01
+top - 22:25:01 up 18 days, 11:29,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5754164 used,  2353500 free,    38212 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507584 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   10 root      20   0       0      0      0 S   6,1  0,0   1:54.09 rcuos/2
+   11 root      20   0       0      0      0 S   6,1  0,0   3:04.17 rcuos/3
+   42 root      rt   0       0      0      0 S   6,1  0,0   0:15.46 watchdog/0
+10251 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:30:01
+top - 22:30:01 up 18 days, 11:34,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5761868 used,  2345796 free,    38368 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507588 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10330 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+27500 ltsp2     20   0  884588  16148   8956 S   6,1  0,2   0:03.61 unity-sett+
+MrBurns 2015-05-22 22:35:01
+top - 22:35:01 up 18 days, 11:39,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5757036 used,  2350628 free,    38596 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507640 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10414 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:40:01
+top - 22:40:02 up 18 days, 11:44,  8 users,  load average: 0,01, 0,03, 0,05
+Tarefas: 588 total,   1 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5756232 used,  2351432 free,    38752 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507648 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10500 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:45:01
+top - 22:45:01 up 18 days, 11:49,  8 users,  load average: 0,05, 0,03, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5756584 used,  2351080 free,    38912 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507652 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10579 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:50:01
+top - 22:50:01 up 18 days, 11:54,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5757108 used,  2350556 free,    39068 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507664 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    7 root      20   0       0      0      0 R   6,1  0,0   2:58.66 rcu_sched
+10658 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 22:55:01
+top - 22:55:01 up 18 days, 11:59,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 588 total,   2 executando, 586 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5756740 used,  2350924 free,    39224 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507668 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    9 root      20   0       0      0      0 S   6,1  0,0   2:00.92 rcuos/1
+10741 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 23:00:01
+top - 23:00:02 up 18 days, 12:04,  8 users,  load average: 0,41, 0,20, 0,11
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6001128 used,  2106536 free,    39636 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   507944 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+10758 ltsp8     20   0 1149348 290396  50344 S  30,7  3,6   0:38.70 firefox
+10917 root      20   0   29480   1956   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 23:05:01
+top - 23:05:01 up 18 days, 12:09,  8 users,  load average: 0,01, 0,10, 0,10
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  6000848 used,  2106816 free,    40100 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508200 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11100 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 23:10:01
+top - 23:10:01 up 18 days, 12:14,  8 users,  load average: 0,04, 0,06, 0,09
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5995436 used,  2112228 free,    40480 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508668 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11183 root      20   0   29480   1956   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 23:15:01
+top - 23:15:01 up 18 days, 12:19,  8 users,  load average: 0,00, 0,02, 0,06
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,9 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5994844 used,  2112820 free,    40652 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508732 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11270 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 23:20:01
+top - 23:20:02 up 18 days, 12:24,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5995924 used,  2111740 free,    40800 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508744 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11357 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 23:25:01
+top - 23:25:01 up 18 days, 12:29,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5995972 used,  2111692 free,    40944 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508752 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11441 root      20   0   29480   1952   1136 R   6,0  0,0   0:00.01 top
+MrBurns 2015-05-22 23:30:01
+top - 23:30:01 up 18 days, 12:34,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 590 total,   1 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5994512 used,  2113152 free,    41088 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508764 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11523 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+MrBurns 2015-05-22 23:35:01
+top - 23:35:01 up 18 days, 12:39,  8 users,  load average: 0,06, 0,04, 0,05
+Tarefas: 590 total,   2 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5997068 used,  2110596 free,    41356 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508812 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   10 root      20   0       0      0      0 S   6,2  0,0   1:54.30 rcuos/2
+11621 root      20   0   29480   1952   1136 R   6,2  0,0   0:00.01 top
+MrBurns 2015-05-22 23:40:01
+top - 23:40:01 up 18 days, 12:44,  8 users,  load average: 0,04, 0,04, 0,05
+Tarefas: 589 total,   2 executando, 587 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5997012 used,  2110652 free,    41512 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508816 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11732 root      20   0   29480   1952   1136 R   6,1  0,0   0:00.01 top
+20889 ltsp2     20   0 1862288 634704  52280 S   6,1  7,8  79:46.03 firefox
+MrBurns 2015-05-22 23:45:01
+top - 23:45:01 up 18 days, 12:49,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5997764 used,  2109900 free,    41672 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508836 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11820 root      20   0   29480   1952   1136 R  12,3  0,0   0:00.02 top
+   11 root      20   0       0      0      0 S   6,1  0,0   3:04.43 rcuos/3
+MrBurns 2015-05-22 23:50:01
+top - 23:50:01 up 18 days, 12:54,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 590 total,   1 executando, 589 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5997592 used,  2110072 free,    41816 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508836 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+11908 root      20   0   29480   1956   1136 R  12,1  0,0   0:00.02 top
+MrBurns 2015-05-22 23:55:01
+top - 23:55:02 up 18 days, 12:59,  8 users,  load average: 0,00, 0,01, 0,05
+Tarefas: 589 total,   1 executando, 588 dormindo,   0 parado,   0 zumbi
+%Cpu(s):  3,8 us,  0,6 sy,  0,0 ni, 95,1 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem:   8107664 total,  5997616 used,  2110048 free,    41980 buffers
+KiB Swap:  2152444 total,   628480 used,  1523964 free.   508852 cached Mem
+
+  PID USUÁRIO  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   11 root      20   0       0      0      0 S   6,1  0,0   3:04.46 rcuos/3
+11989 root      20   0   29480   1948   1136 R   6,1  0,0   0:00.01 top

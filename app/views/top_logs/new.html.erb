@@ -1,0 +1,13 @@
+<h1>Upload a new Top Log</h1>
+<%= form_for :top_log, html: {multipart: true}, url: top_logs_path do |f| %>
+	<p>
+		<%= f.file_field :top_file %>
+	</p>
+	<p>
+		<%= f.label :comment %>
+		<%= f.text_area :comment %>
+	</p>
+	<p>
+		<%= f.submit %>
+	</p>
+<% end %>
